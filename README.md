@@ -39,15 +39,21 @@
 |----------|---------------------------|------------------------------------------------------------------|
 | **2008** | **Announcement as “Windows Azure”** | - Unveiled at Microsoft’s Professional Developers Conference (PDC).<br>- Initial focus on Windows-based services. |
 | **2010** | **General Availability**  | - Launched commercially.<br>- Included compute, storage, and networking services. |
-| **2012** | **Renamed to Microsoft Azure** | - Expanded focus beyond Windows.<br>- Added support for Linux-based workloads. |
-| **2014** | **Hybrid Cloud Support**  | - Introduced Azure ExpressRoute.<br>- Improved integration with on-premises infrastructure. |
+| **2012** | **Platform Expansion** | - Expanded focus beyond Windows.<br>- Added support for Linux-based workloads. |
+| **2014** | **Rebrand & Hybrid Support**  | - Rebranded to Microsoft Azure to reflect cross-platform support.<br>- Introduced Azure ExpressRoute and improved integration with on-premises infrastructure. |
 | **2015** | **Azure IoT Suite**       | - Enhanced IoT capabilities.<br>- Released Azure Machine Learning and Event Hubs. |
 | **2017** | **Azure Kubernetes Service (AKS)** | - Launched managed Kubernetes services.<br>- Strengthened support for containerized applications. |
 | **2019** | **Azure Arc Introduction** | - Unified management for multi-cloud and hybrid environments.<br>- Added AI-driven insights. |
 | **2020** | **Key Updates**           | - Released Azure Communication Services.<br>- Enhanced security features for enterprises. |
-| **2023** | **AI Integration**        | - Strengthened AI and ML capabilities.<br>- Added OpenAI integration for GPT-based services.<br>- Expanded multi-region redundancy. |
+| **2023** | **AI Integration**        | - Strengthened AI and ML capabilities.<br>- Deepened partnership with OpenAI to host and scale large generative models.<br>- Expanded multi-region redundancy. |
+| **2024–2026** | **Generative AI & Continuous Delivery** | - Rapid expansion of generative AI services and tooling (Azure OpenAI and platform capabilities).<br>- Continued service-by-service REST API versioning and regular feature rollouts across global regions. |
 
 ---
+
+## Azure Versioning Note
+
+Microsoft Azure does not publish a single monolithic version number. Instead, individual services and APIs evolve continuously and are versioned independently (often by REST API date strings). To inspect specific component or API version histories, consult Microsoft's service docs and REST API version pages (for example, Azure Storage previous versions and ARM/service release notes).
+
 
 ## How Microsoft Azure Works
 
