@@ -1,0 +1,251 @@
+nombre,orden,familia,estado,fecha,nuevo,descripcion,capitulo,simbolo,etiqueta,poster
+Virtual Machines,Virtual Machines,computo,GA,,,VM Windows/Linux con control total; series v7 Intel y AMD GA en 2026,03-computo-y-contenedores.md,Vm,Virtual|Machines,1
+Virtual Machine Scale Sets,Virtual Machine Scale Sets,computo,GA,,,"Flotas de VM con autoescalado, zonas y modo Flexible",03-computo-y-contenedores.md,Ss,Scale|Sets,1
+Spot Virtual Machines,Spot Virtual Machines,computo,GA,,,Capacidad excedente con gran descuento y desalojo con aviso,03-computo-y-contenedores.md,Sp,Spot|VMs,1
+Azure Dedicated Host,Dedicated Host,computo,GA,,,Servidor físico dedicado para cumplimiento y licencias,03-computo-y-contenedores.md,Dh,Dedicated|Host,1
+Azure Compute Fleet,Compute Fleet,computo,GA,,1,Aprovisiona miles de VM mezclando tamaños y Spot/estándar,03-computo-y-contenedores.md,Cf,Compute|Fleet,1
+Azure Compute Gallery,Compute Gallery,computo,GA,,,Imágenes y aplicaciones de VM versionadas y replicadas,03-computo-y-contenedores.md,Cg,Compute|Gallery,1
+Azure VM Image Builder,VM Image Builder,computo,GA,,,Construcción automatizada de imágenes doradas (Packer),03-computo-y-contenedores.md,Ib,Image|Builder,0
+Azure App Service,App Service,computo,GA,,,"Web apps y APIs gestionadas con slots, autoescalado y sidecars",03-computo-y-contenedores.md,As,App|Service,1
+Azure Functions,Functions,computo,GA,,,Serverless por eventos; plan Flex Consumption recomendado,03-computo-y-contenedores.md,Fn,Functions,1
+Azure Batch,Batch,computo,GA,,,Trabajos paralelos y HPC a gran escala con nodos Spot,03-computo-y-contenedores.md,Ba,Batch,1
+Azure CycleCloud,CycleCloud,computo,GA,,,"Orquestación de clústeres HPC (Slurm, PBS Pro, LSF)",03-computo-y-contenedores.md,Cy,CycleCloud,1
+Azure VMware Solution,VMware Solution,computo,GA,,,Nube privada VMware sobre bare metal dedicado en Azure,03-computo-y-contenedores.md,Av,VMware|Solution,1
+Azure Service Fabric,Service Fabric,computo,GA,,,Microservicios con estado; clústeres administrados,03-computo-y-contenedores.md,Sf,Service|Fabric,1
+Azure Boost,Boost,computo,GA,,,Descarga de red y almacenamiento a hardware dedicado en el host,03-computo-y-contenedores.md,Bo,Azure|Boost,1
+Azure Quantum,Quantum,computo,GA,,,"Hardware cuántico de socios, simuladores, QDK y estimador de recursos",14-web-movil-comunicaciones-y-escritorio.md,Qu,Quantum,1
+Azure Spring Apps,Spring Apps,computo,Retiro,2028-03-31,,Spring Boot gestionado; migrar a Container Apps o AKS,03-computo-y-contenedores.md,Spa,Spring|Apps,0
+Cloud Services (extended support),Cloud Services (extended support),computo,Retiro,2027-03-31,,"PaaS clásico; migrar a VMSS, App Service o AKS",03-computo-y-contenedores.md,Cs,Cloud|Services,0
+Cloud Services (classic),Cloud Services (classic),computo,Retirado,2024-08-31,,Reemplazado por Cloud Services (extended support) y otros PaaS,03-computo-y-contenedores.md,,,0
+Azure Kubernetes Service (AKS),Kubernetes Service,contenedores,GA,,,"Kubernetes gestionado: tiers Free/Standard/Premium, hasta 5 000 nodos",03-computo-y-contenedores.md,Aks,Kubernetes|Service,1
+AKS Automatic,AKS Automatic,contenedores,GA,,1,"AKS con nodos, escalado, red y seguridad gestionados (GA sep-2025)",03-computo-y-contenedores.md,Aka,AKS|Automatic,1
+Azure Container Apps,Container Apps,contenedores,GA,,,"Microservicios serverless con KEDA, Envoy y Dapr gestionado",03-computo-y-contenedores.md,Aca,Container|Apps,1
+Container Apps Sandboxes,Container Apps Sandboxes,contenedores,GA,,1,Cómputo efímero en micro-VM con snapshots y suspensión (GA sep-2026),03-computo-y-contenedores.md,Sbx,ACA|Sandboxes,1
+Azure Container Instances,Container Instances,contenedores,GA,,,"Contenedores bajo demanda sin orquestador, facturados por segundo",03-computo-y-contenedores.md,Aci,Container|Instances,1
+Azure Container Registry,Container Registry,contenedores,GA,,,"Registro OCI privado con geo-replicación, tasks y Private Link",03-computo-y-contenedores.md,Acr,Container|Registry,1
+Azure Kubernetes Fleet Manager,Kubernetes Fleet Manager,contenedores,GA,,1,"Gobierno y actualizaciones de hasta 1 000 clústeres, incluidos Arc",03-computo-y-contenedores.md,Kfm,Fleet|Manager,1
+Azure Red Hat OpenShift,Red Hat OpenShift,contenedores,GA,,,OpenShift operado conjuntamente por Microsoft y Red Hat,03-computo-y-contenedores.md,Aro,Red Hat|OpenShift,1
+Azure Container Storage,Container Storage,contenedores,GA,,,Volúmenes para contenedores sobre NVMe local y discos,03-computo-y-contenedores.md,Csg,Container|Storage,1
+Azure Blob Storage,Blob Storage,almacenamiento,GA,,,Objetos a escala de exabytes; Hot/Cool/Cold/Archive y smart tier,04-almacenamiento-y-bases-de-datos.md,Bl,Blob|Storage,1
+Azure Data Lake Storage,Data Lake Storage,almacenamiento,GA,,,Blob con espacio de nombres jerárquico y ACL POSIX,04-almacenamiento-y-bases-de-datos.md,Dl,Data Lake|Storage,1
+Azure Files,Files,almacenamiento,GA,,,Recursos compartidos SMB/NFS administrados (provisioned v2),04-almacenamiento-y-bases-de-datos.md,Fi,Azure|Files,1
+Azure File Sync,File Sync,almacenamiento,GA,,,Caché híbrida de Azure Files en Windows Server,04-almacenamiento-y-bases-de-datos.md,Fs,File|Sync,1
+Azure Queue Storage,Queue Storage,almacenamiento,GA,,,Colas simples y económicas con mensajes de 64 KiB,04-almacenamiento-y-bases-de-datos.md,Qs,Queue|Storage,1
+Azure Table Storage,Table Storage,almacenamiento,GA,,,Almacén NoSQL clave-atributo de bajo costo,04-almacenamiento-y-bases-de-datos.md,Ts,Table|Storage,1
+Azure Managed Disks,Managed Disks,almacenamiento,GA,,,"Ultra, Premium SSD v2, Premium SSD, Standard SSD y HDD",04-almacenamiento-y-bases-de-datos.md,Md,Managed|Disks,1
+Azure Elastic SAN,Elastic SAN,almacenamiento,GA,,,"SAN como servicio (iSCSI) para VM, AKS y AVS",04-almacenamiento-y-bases-de-datos.md,Es,Elastic|SAN,1
+Azure NetApp Files,NetApp Files,almacenamiento,GA,,,NFS/SMB empresarial de latencia sub-milisegundo,04-almacenamiento-y-bases-de-datos.md,Nf,NetApp|Files,1
+Azure Managed Lustre,Managed Lustre,almacenamiento,GA,,,Sistema de archivos paralelo para HPC e IA integrado con Blob,04-almacenamiento-y-bases-de-datos.md,Lu,Managed|Lustre,1
+Azure Storage Actions,Storage Actions,almacenamiento,GA,,1,Operaciones serverless sobre millones de blobs,04-almacenamiento-y-bases-de-datos.md,Sa,Storage|Actions,1
+Azure Storage Mover,Storage Mover,almacenamiento,GA,,,Migración gestionada de NAS (SMB/NFS) a Azure Storage,04-almacenamiento-y-bases-de-datos.md,Smv,Storage|Mover,1
+Azure HPC Cache,HPC Cache,almacenamiento,Retirado,2025-09-30,,Reemplazado por Azure Managed Lustre,04-almacenamiento-y-bases-de-datos.md,,,0
+Azure FXT Edge Filer,FXT Edge Filer,almacenamiento,Retirado,2026-09-30,,Caché de archivos de borde retirada,04-almacenamiento-y-bases-de-datos.md,,,0
+Azure Data Lake Storage Gen1,Data Lake Storage Gen1,almacenamiento,Retirado,2024-02-29,,Migrado a Data Lake Storage (Gen2),04-almacenamiento-y-bases-de-datos.md,,,0
+Azure Cosmos DB,Cosmos DB,bases-de-datos,GA,,,"NoSQL distribuida globalmente, 5 consistencias, vector y full-text",04-almacenamiento-y-bases-de-datos.md,Cdb,Cosmos|DB,1
+Azure SQL Database,SQL Database,bases-de-datos,GA,,,"SQL Server PaaS: General Purpose, Business Critical, Hyperscale",04-almacenamiento-y-bases-de-datos.md,Sql,SQL|Database,1
+Azure SQL Managed Instance,SQL Managed Instance,bases-de-datos,GA,,,Instancia SQL Server casi 100 % compatible y gestionada,04-almacenamiento-y-bases-de-datos.md,Smi,SQL Managed|Instance,1
+SQL Server on Azure Virtual Machines,SQL Server on Azure VMs,bases-de-datos,GA,,,SQL Server (incluido 2025) con control total en VM,04-almacenamiento-y-bases-de-datos.md,Svm,SQL Server|en VM,1
+SQL database in Microsoft Fabric,SQL database in Fabric,bases-de-datos,GA,,1,Base operacional SQL integrada en Fabric y OneLake,04-almacenamiento-y-bases-de-datos.md,Sfb,SQL DB|en Fabric,1
+Azure Database for PostgreSQL,Database for PostgreSQL,bases-de-datos,GA,,,Flexible Server con HA de zona y elastic clusters (Citus),04-almacenamiento-y-bases-de-datos.md,Pg,PostgreSQL,1
+Azure HorizonDB,HorizonDB,bases-de-datos,Preview,,1,"Compatible con PostgreSQL, escala horizontal hasta 3 072 vCores",04-almacenamiento-y-bases-de-datos.md,Hz,HorizonDB,1
+Azure Database for MySQL,Database for MySQL,bases-de-datos,GA,,,Flexible Server con HA de zona y réplicas de lectura,04-almacenamiento-y-bases-de-datos.md,My,MySQL,1
+Azure DocumentDB,DocumentDB,bases-de-datos,GA,,1,Documentos compatible con MongoDB sobre motor open source,04-almacenamiento-y-bases-de-datos.md,Ddb,DocumentDB,1
+Azure Managed Redis,Managed Redis,bases-de-datos,GA,,1,Redis Enterprise gestionado con geo-replicación activa,04-almacenamiento-y-bases-de-datos.md,Rd,Managed|Redis,1
+Azure Managed Instance for Apache Cassandra,Managed Instance for Apache Cassandra,bases-de-datos,GA,,,Cassandra gestionado con clústeres híbridos,04-almacenamiento-y-bases-de-datos.md,Ca,Cassandra|MI,1
+Oracle Database@Azure,Oracle Database@Azure,bases-de-datos,GA,,,Exadata y Autonomous Database dentro de datacenters de Azure,04-almacenamiento-y-bases-de-datos.md,Ora,Oracle|DB@Azure,1
+Azure Cache for Redis,Cache for Redis,bases-de-datos,Retiro,2028-09-30,,Enterprise se retira el 31-mar-2027; migrar a Azure Managed Redis,04-almacenamiento-y-bases-de-datos.md,Rc,Cache for|Redis,0
+Azure Cosmos DB for PostgreSQL,Cosmos DB for PostgreSQL,bases-de-datos,Retiro,2029-03-31,,Sin nuevas implementaciones; migrar a PostgreSQL elastic clusters,04-almacenamiento-y-bases-de-datos.md,Cpg,Cosmos DB|PostgreSQL,0
+Azure Database for MariaDB,Database for MariaDB,bases-de-datos,Retirado,2025-09-19,,Migrado a MySQL Flexible Server,04-almacenamiento-y-bases-de-datos.md,,,0
+Azure SQL Edge,SQL Edge,bases-de-datos,Retirado,2025-09-30,,SQL Server en contenedores o Azure Local,04-almacenamiento-y-bases-de-datos.md,,,0
+Azure Virtual Network,Virtual Network,redes,GA,,,Red privada aislada; subredes privadas por defecto desde mar-2026,06-redes-y-entrega-global.md,Vn,Virtual|Network,1
+Azure Virtual Network Manager,Virtual Network Manager,redes,GA,,,Topologías y reglas de seguridad centralizadas multisuscripción,06-redes-y-entrega-global.md,Vnm,VNet|Manager,1
+Azure Front Door,Front Door,redes,GA,,,Entrada global L7 con WAF y CDN en 190+ sitios edge,06-redes-y-entrega-global.md,Fd,Front|Door,1
+Azure Load Balancer,Load Balancer,redes,GA,,,"Balanceo L4 regional o global (Standard, Gateway, Global tier)",06-redes-y-entrega-global.md,Lb,Load|Balancer,1
+Azure Application Gateway,Application Gateway,redes,GA,,,Proxy inverso L7 regional v2 con WAF,06-redes-y-entrega-global.md,Ag,App|Gateway,1
+Application Gateway for Containers,Application Gateway for Containers,redes,GA,,,Ingress y Gateway API para AKS con WAF,06-redes-y-entrega-global.md,Agc,AppGW for|Containers,1
+Azure Traffic Manager,Traffic Manager,redes,GA,,,Enrutamiento global basado en DNS,06-redes-y-entrega-global.md,Tm,Traffic|Manager,1
+Azure NAT Gateway,NAT Gateway,redes,GA,,1,Salida a Internet; StandardV2 zona-redundante de 100 Gbps,06-redes-y-entrega-global.md,Nat,NAT|Gateway,1
+Azure DNS,DNS,redes,GA,,,Zonas DNS públicas y privadas,06-redes-y-entrega-global.md,Dns,Azure|DNS,1
+Azure DNS Private Resolver,DNS Private Resolver,redes,GA,,,Resolución DNS híbrida sin VM,06-redes-y-entrega-global.md,Dpr,DNS Private|Resolver,1
+Azure Private Link,Private Link,redes,GA,,,Servicios PaaS y propios con IP privada en tu VNet,06-redes-y-entrega-global.md,Pl,Private|Link,1
+Network Security Perimeter,Network Security Perimeter,redes,GA,,1,Perímetro lógico para recursos PaaS fuera de la VNet,06-redes-y-entrega-global.md,Nsp,Network Sec.|Perimeter,1
+Azure VPN Gateway,VPN Gateway,redes,GA,,,VPN sitio a sitio y punto a sitio (solo SKU AZ desde sep-2026),06-redes-y-entrega-global.md,Vpn,VPN|Gateway,1
+Azure ExpressRoute,ExpressRoute,redes,GA,,,Conectividad privada dedicada; Direct hasta 400 Gbps,06-redes-y-entrega-global.md,Er,Express|Route,1
+Azure Virtual WAN,Virtual WAN,redes,GA,,,Hubs gestionados con enrutamiento y seguridad integrados,06-redes-y-entrega-global.md,Wan,Virtual|WAN,1
+Azure Route Server,Route Server,redes,GA,,,Intercambio BGP con NVA,06-redes-y-entrega-global.md,Rs,Route|Server,1
+Azure Firewall,Firewall,redes,GA,,,"Firewall con estado Basic/Standard/Premium (IDPS, TLS)",06-redes-y-entrega-global.md,Fw,Azure|Firewall,1
+Azure Firewall Manager,Firewall Manager,redes,GA,,,Políticas de firewall centralizadas y hubs seguros,06-redes-y-entrega-global.md,Fwm,Firewall|Manager,0
+Azure Web Application Firewall,Web Application Firewall,redes,GA,,,"WAF para Front Door, Application Gateway y AGC",06-redes-y-entrega-global.md,Waf,Web App|Firewall,1
+Azure DDoS Protection,DDoS Protection,redes,GA,,,Mitigación DDoS adaptativa (Network e IP Protection),06-redes-y-entrega-global.md,Dd,DDoS|Protection,1
+Azure Bastion,Bastion,redes,GA,,,RDP/SSH seguro sin IP públicas,06-redes-y-entrega-global.md,Bs,Bastion,1
+Azure Network Watcher,Network Watcher,redes,GA,,,"Diagnóstico: connection monitor, flow logs, captura de paquetes",06-redes-y-entrega-global.md,Nw,Network|Watcher,1
+Azure Public IP y prefijos,Public IP,redes,GA,,,"IP públicas Standard/StandardV2, prefijos y BYOIP",06-redes-y-entrega-global.md,Ip,Public IP|& prefijos,0
+Azure Peering Service,Peering Service,redes,GA,,,Conectividad optimizada a Microsoft vía ISP socios,06-redes-y-entrega-global.md,Ps,Peering|Service,0
+Azure Front Door (classic),Front Door (classic),redes,Retiro,2027-03-31,,Migrar a Front Door Standard/Premium,06-redes-y-entrega-global.md,,,0
+Azure CDN Standard from Microsoft (classic),CDN Standard from Microsoft (classic),redes,Retiro,2027-09-30,,Migrar a Front Door Standard/Premium,06-redes-y-entrega-global.md,,,0
+Azure CDN from Edgio,CDN from Edgio,redes,Retirado,2025-01-15,,Migrado a Front Door,06-redes-y-entrega-global.md,,,0
+Azure Load Balancer Basic,Load Balancer Basic,redes,Retirado,2025-09-30,,Migrar a Load Balancer Standard,06-redes-y-entrega-global.md,,,0
+Application Gateway v1,Application Gateway v1,redes,Retirado,2026-04-28,,Migrar a Application Gateway v2,06-redes-y-entrega-global.md,,,0
+Azure Service Bus,Service Bus,integracion,GA,,,"Broker empresarial: colas, topics, sesiones FIFO, transacciones",05-mensajeria-e-integracion.md,Sb,Service|Bus,1
+Azure Event Hubs,Event Hubs,integracion,GA,,,Streaming de millones de eventos/s compatible con Kafka,05-mensajeria-e-integracion.md,Eh,Event|Hubs,1
+Azure Event Grid,Event Grid,integracion,GA,,,Enrutamiento de eventos push/pull y broker MQTT,05-mensajeria-e-integracion.md,Eg,Event|Grid,1
+Azure Logic Apps,Logic Apps,integracion,GA,,,"Flujos con 1 400+ conectores, B2B y agentes",05-mensajeria-e-integracion.md,La,Logic|Apps,1
+Azure API Management,API Management,integracion,GA,,,"Gateway de APIs, AI gateway y servidores MCP",05-mensajeria-e-integracion.md,Apm,API|Management,1
+Azure API Center,API Center,integracion,GA,,,Inventario y gobierno de APIs y servidores MCP,05-mensajeria-e-integracion.md,Apc,API|Center,1
+Azure Relay,Relay,integracion,GA,,,Exponer servicios on-premises sin abrir puertos,05-mensajeria-e-integracion.md,Rl,Azure|Relay,1
+Azure Web PubSub,Web PubSub,integracion,GA,,,WebSockets gestionados a gran escala (con Socket.IO),05-mensajeria-e-integracion.md,Wps,Web|PubSub,1
+Azure SignalR Service,SignalR Service,integracion,GA,,,Escala de ASP.NET Core SignalR,05-mensajeria-e-integracion.md,Sr,SignalR,1
+Integration Service Environment,Integration Service Environment,integracion,Retirado,2024-08-31,,Migrar a Logic Apps Standard,05-mensajeria-e-integracion.md,,,0
+Microsoft Fabric,Fabric,analitica,GA,,,Plataforma SaaS de datos e IA sobre OneLake,09-datos-y-analitica.md,Fab,Microsoft|Fabric,1
+Azure Databricks,Databricks,analitica,GA,,,"Lakehouse con Unity Catalog, Spark y Mosaic AI",09-datos-y-analitica.md,Dbr,Databricks,1
+Azure Synapse Analytics,Synapse Analytics,analitica,GA,,,"Almacén MPP, SQL serverless y Spark; Fabric es el sucesor",09-datos-y-analitica.md,Syn,Synapse,1
+Azure Data Factory,Data Factory,analitica,GA,,,Integración y orquestación de datos híbrida,09-datos-y-analitica.md,Adf,Data|Factory,1
+Azure Data Explorer,Data Explorer,analitica,GA,,,"Motor Kusto para logs, telemetría y series temporales",09-datos-y-analitica.md,Adx,Data|Explorer,1
+Azure Stream Analytics,Stream Analytics,analitica,GA,,,Streaming con SQL y ventanas temporales,09-datos-y-analitica.md,Asa,Stream|Analytics,1
+Azure HDInsight,HDInsight,analitica,GA,,,"Hadoop, Spark, Kafka y HBase gestionados (legado)",09-datos-y-analitica.md,Hdi,HDInsight,1
+Microsoft Purview,Purview,analitica,GA,,,"Catálogo unificado, linaje, calidad, DLP y protección",09-datos-y-analitica.md,Pv,Purview,1
+Azure Data Share,Data Share,analitica,GA,,,Compartir datos con organizaciones externas,09-datos-y-analitica.md,Dsh,Data|Share,1
+Power BI Embedded,Power BI Embedded,analitica,GA,,,Informes de Power BI dentro de tus aplicaciones,09-datos-y-analitica.md,Pbi,Power BI|Embedded,1
+Azure Analysis Services,Analysis Services,analitica,GA,,,Modelos tabulares (legado); preferir modelos semánticos,09-datos-y-analitica.md,Aas,Analysis|Services,0
+Azure Open Datasets,Open Datasets,analitica,GA,,,Conjuntos de datos públicos curados para ML,09-datos-y-analitica.md,Ods,Open|Datasets,0
+Azure Data Lake Analytics,Data Lake Analytics,analitica,Retirado,2024-02-29,,"U-SQL; migrar a Fabric, Databricks o Synapse",09-datos-y-analitica.md,,,0
+Azure Time Series Insights,Time Series Insights,analitica,Retirado,2024-07-07,,Migrar a Data Explorer o Fabric RTI,09-datos-y-analitica.md,,,0
+HDInsight on AKS,HDInsight on AKS,analitica,Retirado,2025-01-31,,Migrar a Fabric o Databricks,09-datos-y-analitica.md,,,0
+Synapse Data Explorer,Synapse Data Explorer,analitica,Retirado,2025-10-07,,Migrar a Eventhouse en Fabric,09-datos-y-analitica.md,,,0
+Microsoft Foundry,Foundry,ia,GA,,1,"Plataforma para construir, evaluar y gobernar apps y agentes de IA",10-ia-y-machine-learning.md,Mf,Microsoft|Foundry,1
+Foundry Models,Foundry Models,ia,GA,,1,"Catálogo de 11 000+ modelos (OpenAI, Anthropic, Meta, Mistral, xAI…)",10-ia-y-machine-learning.md,Fm,Foundry|Models,1
+Azure OpenAI in Foundry Models,OpenAI in Foundry Models,ia,GA,,,Modelos de OpenAI vendidos directamente por Microsoft,10-ia-y-machine-learning.md,Oai,Azure|OpenAI,1
+Foundry Agent Service,Foundry Agent Service,ia,GA,,1,"Runtime de agentes con herramientas, MCP, A2A y multiagente",10-ia-y-machine-learning.md,Fas,Agent|Service,1
+Foundry IQ,Foundry IQ,ia,Mixto,,1,Capa de conocimiento para agentes sobre AI Search,10-ia-y-machine-learning.md,Fiq,Foundry|IQ,1
+Foundry Control Plane,Foundry Control Plane,ia,Preview,,1,"Gobierno, observabilidad y seguridad de flotas de agentes",10-ia-y-machine-learning.md,Fcp,Control|Plane,1
+Foundry Local,Foundry Local,ia,GA,,1,Modelos en el dispositivo o en entornos desconectados,10-ia-y-machine-learning.md,Fl,Foundry|Local,1
+Azure AI Search,AI Search,ia,GA,,,"Búsqueda híbrida, vectorial, semántica y recuperación agéntica",10-ia-y-machine-learning.md,Srh,AI|Search,1
+Speech (Foundry Tools),Speech,ia,GA,,,"Voz a texto, texto a voz, traducción de voz y Voice Live",10-ia-y-machine-learning.md,Spc,Speech,1
+Language (Foundry Tools),Language,ia,GA,,,"NER, PII, resumen, CLU y question answering",10-ia-y-machine-learning.md,Lng,Language,1
+Translator (Foundry Tools),Translator,ia,GA,,,Traducción de texto y documentos en 100+ idiomas,10-ia-y-machine-learning.md,Tr,Translator,1
+Vision (Foundry Tools),Vision,ia,GA,,,Image Analysis 4.0 y OCR; Face con acceso limitado,10-ia-y-machine-learning.md,Vis,Vision,1
+Document Intelligence (Foundry Tools),Document Intelligence,ia,GA,,,Extracción de documentos precompilada y personalizada,10-ia-y-machine-learning.md,Di,Document|Intelligence,1
+Content Understanding (Foundry Tools),Content Understanding,ia,GA,,,"Extracción multimodal de documentos, audio y video",10-ia-y-machine-learning.md,Cu,Content|Understanding,1
+Content Safety (Foundry Tools),Content Safety,ia,GA,,,"Filtros de daño, Prompt Shields y groundedness",10-ia-y-machine-learning.md,Csf,Content|Safety,1
+Azure Machine Learning,Machine Learning,ia,GA,,,MLOps de extremo a extremo para modelos propios,10-ia-y-machine-learning.md,Ml,Machine|Learning,1
+Microsoft Agent Framework,Agent Framework,ia,GA,,1,"SDK de agentes .NET/Python, sucesor de Semantic Kernel y AutoGen",10-ia-y-machine-learning.md,Maf,Agent|Framework,1
+Microsoft Discovery,Discovery,ia,GA,,1,Plataforma agéntica para I+D científica (GA Build 2026),10-ia-y-machine-learning.md,Dis,Discovery,1
+Azure AI Video Indexer,Video Indexer,ia,GA,,,Indexación y análisis de video y audio,10-ia-y-machine-learning.md,Vi,Video|Indexer,1
+Azure Bot Service,Bot Service,ia,GA,,,Bots con Bot Framework (legado; preferir Copilot Studio/Agents SDK),10-ia-y-machine-learning.md,Bot,Bot|Service,0
+Content Moderator,Content Moderator,ia,Retiro,2027-03-31,,Migrar a Content Safety,10-ia-y-machine-learning.md,,,0
+Anomaly Detector,Anomaly Detector,ia,Retirado,2026-10-01,,"Usar Data Explorer, Fabric o modelos propios",10-ia-y-machine-learning.md,,,0
+Metrics Advisor,Metrics Advisor,ia,Retirado,2026-10-01,,"Usar Data Explorer, Fabric o modelos propios",10-ia-y-machine-learning.md,,,0
+Personalizer,Personalizer,ia,Retirado,2026-10-01,,Usar modelos propios en Azure ML o Foundry,10-ia-y-machine-learning.md,,,0
+Computer Vision API v1.0–v3.1,Computer Vision API v1-v3.1,ia,Retirado,2026-09-13,,Migrar a Image Analysis 4.0,10-ia-y-machine-learning.md,,,0
+Language Understanding (LUIS),LUIS,ia,Retirado,2025-10-01,,Migrar a Conversational Language Understanding,10-ia-y-machine-learning.md,,,0
+QnA Maker,QnA Maker,ia,Retirado,2025-03-31,,Migrar a custom question answering,10-ia-y-machine-learning.md,,,0
+Bing Search APIs,Bing Search APIs,ia,Retirado,2025-08-11,,Usar Grounding with Bing Search en Foundry,10-ia-y-machine-learning.md,,,0
+Machine Learning Studio (classic),Machine Learning Studio (classic),ia,Retirado,2024-08-31,,Migrar a Azure Machine Learning,10-ia-y-machine-learning.md,,,0
+Azure IoT Hub,IoT Hub,iot-hibrido,GA,,,Gateway bidireccional para millones de dispositivos,11-iot-edge-hibrido-y-soberania.md,Ih,IoT|Hub,1
+Azure IoT Hub Device Provisioning Service,IoT Hub Device Provisioning Service,iot-hibrido,GA,,,Aprovisionamiento zero-touch a escala,11-iot-edge-hibrido-y-soberania.md,Dps,Device|Provisioning,1
+Azure Device Registry,Device Registry,iot-hibrido,GA,,,Representación nativa de dispositivos y activos,11-iot-edge-hibrido-y-soberania.md,Dr,Device|Registry,1
+Azure IoT Operations,IoT Operations,iot-hibrido,GA,,,Plano de datos industrial en el borde con Arc,11-iot-edge-hibrido-y-soberania.md,Io,IoT|Operations,1
+Azure IoT Edge,IoT Edge,iot-hibrido,GA,,,Runtime de módulos en dispositivos de borde,11-iot-edge-hibrido-y-soberania.md,Ie,IoT|Edge,1
+Azure Digital Twins,Digital Twins,iot-hibrido,GA,,,Gemelos digitales con DTDL y grafo de relaciones,11-iot-edge-hibrido-y-soberania.md,Dt,Digital|Twins,1
+Microsoft Defender for IoT,Defender for IoT,iot-hibrido,GA,,,Seguridad de redes OT/IoT sin agentes,11-iot-edge-hibrido-y-soberania.md,Dfi,Defender|for IoT,1
+Device Update for IoT Hub,Device Update for IoT Hub,iot-hibrido,GA,,,Actualizaciones OTA de dispositivos,11-iot-edge-hibrido-y-soberania.md,Du,Device|Update,1
+Azure Arc,Arc,iot-hibrido,GA,,,"Gobierno de Azure para servidores, Kubernetes y datos en cualquier lugar",11-iot-edge-hibrido-y-soberania.md,Arc,Azure|Arc,1
+Azure Local,Local,iot-hibrido,GA,,1,"Infraestructura de Azure en tu datacenter, incluso desconectada",11-iot-edge-hibrido-y-soberania.md,Loc,Azure|Local,1
+Azure Stack Hub,Stack Hub,iot-hibrido,GA,,,Servicios de Azure en entornos aislados,11-iot-edge-hibrido-y-soberania.md,Ash,Stack|Hub,1
+Azure Operator Nexus,Operator Nexus,iot-hibrido,GA,,,Plataforma carrier-grade para operadores de telecomunicaciones,11-iot-edge-hibrido-y-soberania.md,Onx,Operator|Nexus,1
+Azure Stack Edge,Stack Edge,iot-hibrido,Ver,,,Dispositivos de borde gestionados (verifica el ciclo de vida del SKU),11-iot-edge-hibrido-y-soberania.md,,,0
+Azure Extended Zones,Extended Zones,iot-hibrido,Ver,,,Extensiones metropolitanas de regiones en ubicaciones seleccionadas,11-iot-edge-hibrido-y-soberania.md,,,0
+Azure IoT Central,IoT Central,iot-hibrido,Retiro,2029-09-20,,Migrar a IoT Hub + DPS + Device Registry,11-iot-edge-hibrido-y-soberania.md,Ic,IoT|Central,0
+Azure Sphere,Sphere,iot-hibrido,Retiro,2031-07-31,,Silicio MT3620 en fin de vida desde jul-2026,11-iot-edge-hibrido-y-soberania.md,,,0
+Azure Private 5G Core,Private 5G Core,iot-hibrido,Retirado,2025-09-30,,Soluciones de socios en Marketplace,11-iot-edge-hibrido-y-soberania.md,,,0
+Azure Orbital Ground Station,Orbital Ground Station,iot-hibrido,Retirado,2024-12-18,,Redes de estaciones terrestres de socios,11-iot-edge-hibrido-y-soberania.md,,,0
+Microsoft Entra ID,Entra ID,identidad-seguridad,GA,,,"Identidad, SSO, MFA y Acceso Condicional (antes Azure AD)",08-identidad-y-seguridad.md,Eid,Entra|ID,1
+Microsoft Entra External ID,Entra External ID,identidad-seguridad,GA,,,Identidad de clientes y socios (CIAM y B2B),08-identidad-y-seguridad.md,Ext,External|ID,1
+Microsoft Entra ID Governance,Entra ID Governance,identidad-seguridad,GA,,,"Revisiones de acceso, ciclo de vida y gestión de derechos",08-identidad-y-seguridad.md,Gov,ID|Governance,1
+Microsoft Entra Domain Services,Entra Domain Services,identidad-seguridad,GA,,,Dominio administrado compatible con AD,08-identidad-y-seguridad.md,Eds,Domain|Services,1
+Microsoft Entra Agent ID,Entra Agent ID,identidad-seguridad,Mixto,,1,Identidades para agentes de IA con Acceso Condicional,08-identidad-y-seguridad.md,Agi,Agent|ID,1
+Global Secure Access,Global Secure Access,identidad-seguridad,GA,,,Entra Internet Access y Private Access (SSE),08-identidad-y-seguridad.md,Gsa,Global Secure|Access,1
+Microsoft Entra Verified ID,Entra Verified ID,identidad-seguridad,GA,,,Credenciales verificables,08-identidad-y-seguridad.md,Vid,Verified|ID,0
+Managed identities for Azure resources,Managed identities,identidad-seguridad,GA,,,Identidades sin secretos para recursos de Azure,08-identidad-y-seguridad.md,Mid,Managed|Identities,1
+Azure Key Vault,Key Vault,identidad-seguridad,GA,,,"Secretos, claves y certificados (Standard/Premium)",08-identidad-y-seguridad.md,Kv,Key|Vault,1
+Azure Key Vault Managed HSM,Key Vault Managed HSM,identidad-seguridad,GA,,,HSM de inquilino único FIPS 140-3 nivel 3,08-identidad-y-seguridad.md,Hsm,Managed|HSM,1
+Azure Cloud HSM,Cloud HSM,identidad-seguridad,GA,,1,"HSM dedicado de inquilino único, sucesor de Dedicated HSM",08-identidad-y-seguridad.md,Chm,Cloud|HSM,1
+Azure Payment HSM,Payment HSM,identidad-seguridad,GA,,,Criptografía para procesamiento de pagos,08-identidad-y-seguridad.md,Phs,Payment|HSM,0
+Microsoft Defender for Cloud,Defender for Cloud,identidad-seguridad,GA,,,"CNAPP: CSPM, rutas de ataque y protección de cargas",08-identidad-y-seguridad.md,Dfc,Defender|for Cloud,1
+Microsoft Sentinel,Sentinel,identidad-seguridad,GA,,,SIEM/SOAR; solo en el portal de Defender desde abr-2027,08-identidad-y-seguridad.md,Sen,Sentinel,1
+Microsoft Security Copilot,Security Copilot,identidad-seguridad,GA,,,Investigación y respuesta de seguridad con IA,08-identidad-y-seguridad.md,Sco,Security|Copilot,1
+Azure Confidential Computing,Confidential Computing,identidad-seguridad,GA,,,"VM, contenedores y GPU con memoria cifrada por hardware",08-identidad-y-seguridad.md,Cc,Confidential|Computing,1
+Microsoft Azure Attestation,Attestation,identidad-seguridad,GA,,,Atestación remota de entornos de ejecución de confianza,08-identidad-y-seguridad.md,Att,Attestation,0
+Azure Confidential Ledger,Confidential Ledger,identidad-seguridad,GA,,,Registro inmutable respaldado por TEE,08-identidad-y-seguridad.md,Cl,Confidential|Ledger,0
+Customer Lockbox for Microsoft Azure,Customer Lockbox,identidad-seguridad,GA,,,Aprobación de accesos de ingenieros de Microsoft,08-identidad-y-seguridad.md,Lbx,Customer|Lockbox,0
+Azure AD B2C,AD B2C,identidad-seguridad,Retiro,,,Sin venta a clientes nuevos desde may-2025; usar Entra External ID,08-identidad-y-seguridad.md,,,0
+Azure Dedicated HSM,Dedicated HSM,identidad-seguridad,Retiro,2028-07-31,,Sin nuevos clientes; migrar a Cloud HSM o Managed HSM,08-identidad-y-seguridad.md,,,0
+Microsoft Entra Permissions Management,Entra Permissions Management,identidad-seguridad,Retirado,2025-10-01,,Capacidades CIEM en Defender for Cloud,08-identidad-y-seguridad.md,,,0
+"GitHub (Actions, Advanced Security, Copilot, Codespaces)",GitHub,devops,GA,,,Plataforma de desarrollo con CI/CD y OIDC hacia Azure,12-desarrollo-devops-e-iac.md,Gh,GitHub,1
+Azure DevOps,DevOps,devops,GA,,,"Boards, Repos, Pipelines, Test Plans y Artifacts",12-desarrollo-devops-e-iac.md,Ado,Azure|DevOps,1
+Managed DevOps Pools,Managed DevOps Pools,devops,GA,,,Agentes de Azure Pipelines gestionados con VNet,12-desarrollo-devops-e-iac.md,Mdp,Managed|DevOps Pools,1
+Bicep,Bicep,devops,GA,,,Lenguaje de IaC nativo de Azure,12-desarrollo-devops-e-iac.md,Bcp,Bicep,1
+Terraform on Azure (azurerm / azapi),Terraform on Azure,devops,GA,,,IaC multicloud con proveedores oficiales,12-desarrollo-devops-e-iac.md,Tf,Terraform,1
+Azure Verified Modules,Verified Modules,devops,GA,,,Módulos oficiales Bicep/Terraform alineados con WAF,12-desarrollo-devops-e-iac.md,Avm,Verified|Modules,1
+Deployment Stacks,Deployment Stacks,devops,GA,,,Recursos gestionados como unidad con deny settings,12-desarrollo-devops-e-iac.md,Dst,Deployment|Stacks,1
+Template Specs,Template Specs,devops,GA,,,Plantillas ARM/Bicep versionadas y compartidas,12-desarrollo-devops-e-iac.md,Tsp,Template|Specs,0
+Azure Developer CLI (azd),Developer CLI,devops,GA,,,De plantilla a aplicación desplegada con azd up,12-desarrollo-devops-e-iac.md,Azd,Developer|CLI,1
+Azure CLI y Azure PowerShell,CLI,devops,GA,,,Automatización de línea de comandos multiplataforma,01-fundamentos-y-plataforma-global.md,Cli,Azure CLI|PowerShell,1
+Azure MCP Server,MCP Server,devops,GA,,1,Herramientas MCP para que agentes gestionen recursos de Azure,12-desarrollo-devops-e-iac.md,Mcp,Azure MCP|Server,1
+Azure App Configuration,App Configuration,devops,GA,,,Configuración centralizada y feature flags,12-desarrollo-devops-e-iac.md,Acf,App|Configuration,1
+Azure App Testing,App Testing,devops,GA,,1,Playwright Workspaces y Azure Load Testing,12-desarrollo-devops-e-iac.md,Lt,App|Testing,1
+Azure Chaos Studio,Chaos Studio,devops,GA,,,Ingeniería del caos con fallos de servicio y agente,12-desarrollo-devops-e-iac.md,Cho,Chaos|Studio,1
+Azure Deployment Environments,Deployment Environments,devops,Retiro,2027-02-22,,Cierre progresivo desde 14-sep-2026,12-desarrollo-devops-e-iac.md,,,0
+Microsoft Dev Box,Dev Box,devops,Retiro,2028-09-18,,Modo mantenimiento; destino Windows 365,12-desarrollo-devops-e-iac.md,,,0
+Azure Lab Services,Lab Services,devops,Retiro,2027-06-28,,Laboratorios de formación; buscar alternativas,12-desarrollo-devops-e-iac.md,,,0
+Microsoft Playwright Testing (preview),Playwright Testing,devops,Retirado,2026-03-08,,Migrar a Playwright Workspaces en Azure App Testing,12-desarrollo-devops-e-iac.md,,,0
+Azure Resource Manager,Resource Manager,gestion-migracion,GA,,,"Plano de control único: despliegue, RBAC, Policy, locks",01-fundamentos-y-plataforma-global.md,Arm,Resource|Manager,1
+Azure Policy,Policy,gestion-migracion,GA,,,"Gobierno declarativo con deny, modify y deployIfNotExists",01-fundamentos-y-plataforma-global.md,Pol,Azure|Policy,1
+Management groups,Management groups,gestion-migracion,GA,,,Jerarquía de gobierno sobre suscripciones,01-fundamentos-y-plataforma-global.md,Mg,Management|Groups,1
+Azure Resource Graph,Resource Graph,gestion-migracion,GA,,,Inventario con KQL sobre todas las suscripciones,13-gestion-gobierno-costos-y-migracion.md,Rg,Resource|Graph,1
+Azure Lighthouse,Lighthouse,gestion-migracion,GA,,,Gestión delegada multitenant,13-gestion-gobierno-costos-y-migracion.md,Lh,Lighthouse,1
+Microsoft Cost Management,Cost Management,gestion-migracion,GA,,,"Costos, presupuestos, anomalías y exportaciones FOCUS",13-gestion-gobierno-costos-y-migracion.md,Cm,Cost|Management,1
+Azure Advisor,Advisor,gestion-migracion,GA,,,Recomendaciones por pilar del Well-Architected Framework,13-gestion-gobierno-costos-y-migracion.md,Adv,Advisor,1
+Azure Monitor,Monitor,gestion-migracion,GA,,,"Métricas, logs, trazas y alertas; ingesta OTLP nativa",07-observabilidad-y-monitoreo.md,Mon,Azure|Monitor,1
+Application Insights,Application Insights,gestion-migracion,GA,,,APM y rastreo distribuido con OpenTelemetry,07-observabilidad-y-monitoreo.md,Ai,App|Insights,1
+Log Analytics,Log Analytics,gestion-migracion,GA,,,Workspaces de logs con KQL y planes Analytics/Basic/Auxiliary,07-observabilidad-y-monitoreo.md,Law,Log|Analytics,1
+Azure Monitor managed service for Prometheus,Managed Prometheus,gestion-migracion,GA,,,Métricas Prometheus sin servidores que operar,07-observabilidad-y-monitoreo.md,Pro,Managed|Prometheus,1
+Azure Managed Grafana,Managed Grafana,gestion-migracion,GA,,,Grafana gestionado con Entra ID,07-observabilidad-y-monitoreo.md,Gra,Managed|Grafana,1
+Azure Update Manager,Update Manager,gestion-migracion,GA,,,Parches de SO para Azure y servidores con Arc,13-gestion-gobierno-costos-y-migracion.md,Um,Update|Manager,1
+Azure Machine Configuration,Machine Configuration,gestion-migracion,GA,,,Configuración de SO declarativa vía Policy,13-gestion-gobierno-costos-y-migracion.md,Mcf,Machine|Config,0
+Azure Automation,Automation,gestion-migracion,GA,,,Runbooks PowerShell/Python y hybrid workers,13-gestion-gobierno-costos-y-migracion.md,Aut,Automation,1
+Change Tracking and Inventory,Change Tracking and Inventory,gestion-migracion,GA,,,"Cambios de software, archivos y registro con AMA",13-gestion-gobierno-costos-y-migracion.md,Ct,Change|Tracking,0
+Azure Service Health,Service Health,gestion-migracion,GA,,,"Incidentes, mantenimiento y avisos por servicio y región",13-gestion-gobierno-costos-y-migracion.md,Sh,Service|Health,1
+Azure Copilot,Copilot,gestion-migracion,Mixto,,1,"Asistente de IA en portal, CLI y PowerShell; agentes en preview",13-gestion-gobierno-costos-y-migracion.md,Cop,Azure|Copilot,1
+Azure SRE Agent,SRE Agent,gestion-migracion,GA,,1,Agente de operaciones: diagnóstico y mitigación (GA mar-2026),13-gestion-gobierno-costos-y-migracion.md,Sre,SRE|Agent,1
+Azure Backup,Backup,gestion-migracion,GA,,,"Copias inmutables de VM, discos, Files, Blobs y bases de datos",13-gestion-gobierno-costos-y-migracion.md,Bk,Azure|Backup,1
+Azure Site Recovery,Site Recovery,gestion-migracion,GA,,,Replicación y failover orquestado,13-gestion-gobierno-costos-y-migracion.md,Asr,Site|Recovery,1
+Azure Business Continuity Center,Business Continuity Center,gestion-migracion,GA,,,Vista unificada de protección y recuperación,13-gestion-gobierno-costos-y-migracion.md,Bcc,Business|Continuity,0
+Azure Resource Mover,Resource Mover,gestion-migracion,GA,,,Mover recursos entre regiones,13-gestion-gobierno-costos-y-migracion.md,Rm,Resource|Mover,0
+Azure Migrate,Migrate,gestion-migracion,GA,,,"Descubrimiento, evaluación y migración de servidores, BD y apps",13-gestion-gobierno-costos-y-migracion.md,Mig,Azure|Migrate,1
+Azure Database Migration Service,Database Migration Service,gestion-migracion,GA,,,Migraciones de bases de datos en línea y fuera de línea,13-gestion-gobierno-costos-y-migracion.md,Dms,Database|Migration,1
+Azure Data Box,Data Box,gestion-migracion,GA,,,Transferencia offline de grandes volúmenes,13-gestion-gobierno-costos-y-migracion.md,Box,Data|Box,1
+Azure Blueprints,Blueprints,gestion-migracion,Retiro,2027-01-31,,Template Specs + Deployment Stacks + Policy,01-fundamentos-y-plataforma-global.md,,,0
+Azure Automation State Configuration,Automation State Configuration,gestion-migracion,Retiro,2027-09-30,,Migrar a Machine Configuration,13-gestion-gobierno-costos-y-migracion.md,,,0
+Automation Update Management,Automation Update Management,gestion-migracion,Retirado,2024-08-31,,Migrar a Azure Update Manager,13-gestion-gobierno-costos-y-migracion.md,,,0
+Log Analytics agent (MMA/OMS),Log Analytics agent,gestion-migracion,Retirado,2024-08-31,,Migrar a Azure Monitor Agent,07-observabilidad-y-monitoreo.md,,,0
+HTTP Data Collector API,HTTP Data Collector API,gestion-migracion,Retirado,2026-09-14,,Migrar a Logs Ingestion API,07-observabilidad-y-monitoreo.md,,,0
+Azure Static Web Apps,Static Web Apps,web-especializados,GA,,,Front-ends globales con APIs integradas y previews por PR,14-web-movil-comunicaciones-y-escritorio.md,Swa,Static|Web Apps,1
+Azure Communication Services,Communication Services,web-especializados,GA,,,"Voz, video, chat, SMS, correo, WhatsApp y Call Automation",14-web-movil-comunicaciones-y-escritorio.md,Acs,Communication|Services,1
+Azure Maps,Maps,web-especializados,GA,,,"Mapas, rutas, búsqueda, tráfico y clima",14-web-movil-comunicaciones-y-escritorio.md,Map,Azure|Maps,1
+Azure Notification Hubs,Notification Hubs,web-especializados,GA,,,Push multiplataforma a millones de dispositivos,14-web-movil-comunicaciones-y-escritorio.md,Nh,Notification|Hubs,1
+Azure Fluid Relay,Fluid Relay,web-especializados,GA,,,Colaboración en tiempo real con Fluid Framework,14-web-movil-comunicaciones-y-escritorio.md,Flr,Fluid|Relay,0
+Azure Virtual Desktop,Virtual Desktop,web-especializados,GA,,,Escritorios y apps Windows multisesión,14-web-movil-comunicaciones-y-escritorio.md,Avd,Virtual|Desktop,1
+Windows 365,Windows 365,web-especializados,GA,,,Cloud PC por usuario (destino de Dev Box),14-web-movil-comunicaciones-y-escritorio.md,W365,Windows|365,1
+Azure Health Data Services,Health Data Services,web-especializados,GA,,,"Servicios FHIR, DICOM y MedTech",14-web-movil-comunicaciones-y-escritorio.md,Hds,Health Data|Services,1
+Azure Center for SAP solutions,Center for SAP solutions,web-especializados,GA,,,Despliegue y gestión de SAP como unidad,14-web-movil-comunicaciones-y-escritorio.md,Sap,SAP|Solutions,1
+Bing Maps for Enterprise,Bing Maps for Enterprise,web-especializados,Retiro,2028-06-30,,Migrar a Azure Maps,14-web-movil-comunicaciones-y-escritorio.md,,,0
+Azure Virtual Desktop (classic),Virtual Desktop (classic),web-especializados,Retirado,2026-09-30,,Migrar a Azure Virtual Desktop (ARM),14-web-movil-comunicaciones-y-escritorio.md,,,0
+Azure API for FHIR,API for FHIR,web-especializados,Retirado,2026-09-30,,Migrar a Azure Health Data Services,14-web-movil-comunicaciones-y-escritorio.md,,,0
+Azure Maps Creator,Maps Creator,web-especializados,Retirado,2025-09-30,,Socios de mapas de interiores,14-web-movil-comunicaciones-y-escritorio.md,,,0
+Azure Remote Rendering,Remote Rendering,web-especializados,Retirado,2025-09-30,,Sin sustituto directo de Microsoft,14-web-movil-comunicaciones-y-escritorio.md,,,0
+Visual Studio App Center,App Center,web-especializados,Retirado,2025-03-31,,Herramientas de CI/CD y distribución de terceros,14-web-movil-comunicaciones-y-escritorio.md,,,0
+Azure Spatial Anchors,Spatial Anchors,web-especializados,Retirado,2024-11-20,,Sin sustituto directo de Microsoft,14-web-movil-comunicaciones-y-escritorio.md,,,0
+Azure Media Services,Media Services,web-especializados,Retirado,2024-06-30,,Soluciones de socios; Video Indexer para análisis,14-web-movil-comunicaciones-y-escritorio.md,,,0
+Azure Object Anchors,Object Anchors,web-especializados,Retirado,2024-05-20,,Sin sustituto directo de Microsoft,14-web-movil-comunicaciones-y-escritorio.md,,,0
+Azure Blockchain Service,Blockchain Service,web-especializados,Retirado,2021-09-10,,Azure Confidential Ledger o socios,14-web-movil-comunicaciones-y-escritorio.md,,,0

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" width="1600" height="420" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="bt">
+<title id="bt">Azure Atlas · Guía técnica definitiva de Microsoft Azure</title>
+<defs>
+<linearGradient id="bfondo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050816"/><stop offset="0.6" stop-color="#0A1630"/><stop offset="1" stop-color="#0B2545"/></linearGradient>
+<radialGradient id="bhalo" cx="0.78" cy="0.5" r="0.5"><stop offset="0" stop-color="#0078D4" stop-opacity="0.35"/><stop offset="1" stop-color="#0078D4" stop-opacity="0"/></radialGradient>
+<pattern id="bpuntos" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#FFFFFF" fill-opacity="0.05"/></pattern>
+<linearGradient id="bmarca" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#50E6FF"/><stop offset="1" stop-color="#0078D4"/></linearGradient>
+<filter id="brillo" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<marker id="flecha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#7DD3FC" fill-opacity="0.8"/></marker>
+</defs>
+<rect width="1600" height="420" fill="url(#bfondo)"/>
+<rect width="1600" height="420" fill="url(#bhalo)"/>
+<rect width="1600" height="420" fill="url(#bpuntos)"/>
+<g transform="translate(72,96)"><path d="M34 0 L68 19 L68 58 L34 77 L0 58 L0 19 Z" fill="none" stroke="url(#bmarca)" stroke-width="3.5"/><path d="M34 17 L53 28 L53 50 L34 61 L15 50 L15 28 Z" fill="url(#bmarca)" fill-opacity="0.35"/><circle cx="34" cy="39" r="6" fill="#50E6FF"/></g>
+<text x="164" y="160" font-size="64" font-weight="800" letter-spacing="10" fill="#F8FAFC">AZURE ATLAS</text>
+<text x="166" y="204" font-size="25" fill="#CBD5E1">Guía técnica definitiva de Microsoft Azure</text>
+<text x="166" y="238" font-size="16" fill="#94A3B8">Sistemas distribuidos · 250 servicios catalogados · 19 capítulos · edición octubre 2026</text>
+<g transform="translate(166,276)"><rect width="96" height="34" rx="17" fill="#22D3EE" fill-opacity="0.14" stroke="#22D3EE" stroke-opacity="0.9"/><text x="48" y="22.5" text-anchor="middle" font-size="14.5" font-weight="600" fill="#22D3EE">① Cómputo</text></g>
+<g transform="translate(272,276)"><rect width="79" height="34" rx="17" fill="#E879F9" fill-opacity="0.14" stroke="#E879F9" stroke-opacity="0.9"/><text x="40" y="22.5" text-anchor="middle" font-size="14.5" font-weight="600" fill="#E879F9">② Datos</text></g>
+<g transform="translate(361,276)"><rect width="120" height="34" rx="17" fill="#FB923C" fill-opacity="0.14" stroke="#FB923C" stroke-opacity="0.9"/><text x="60" y="22.5" text-anchor="middle" font-size="14.5" font-weight="600" fill="#FB923C">③ Mensajería</text></g>
+<g transform="translate(492,276)"><rect width="137" height="34" rx="17" fill="#34D399" fill-opacity="0.14" stroke="#34D399" stroke-opacity="0.9"/><text x="68" y="22.5" text-anchor="middle" font-size="14.5" font-weight="600" fill="#34D399">④ Enrutamiento</text></g>
+<g transform="translate(638,276)"><rect width="153" height="34" rx="17" fill="#818CF8" fill-opacity="0.14" stroke="#818CF8" stroke-opacity="0.9"/><text x="77" y="22.5" text-anchor="middle" font-size="14.5" font-weight="600" fill="#818CF8">⑤ Observabilidad</text></g>
+<rect x="960" y="352" width="590" height="34" rx="17" fill="#818CF8" fill-opacity="0.12" stroke="#818CF8" stroke-opacity="0.8" stroke-dasharray="5 4"/>
+<text x="1255" y="374" text-anchor="middle" font-size="13.5" fill="#C7D2FE">Azure Monitor · Application Insights · OpenTelemetry</text>
+<line x1="1135" y1="270" x2="1135" y2="352" stroke="#818CF8" stroke-opacity="0.55" stroke-dasharray="3 4"/>
+<line x1="1380" y1="245" x2="1380" y2="352" stroke="#818CF8" stroke-opacity="0.55" stroke-dasharray="3 4"/>
+<line x1="1500" y1="320" x2="1500" y2="352" stroke="#818CF8" stroke-opacity="0.55" stroke-dasharray="3 4"/>
+<path d="M932 187 Q957 175 981 164" fill="none" stroke="#7DD3FC" stroke-opacity="0.55" stroke-width="2" marker-end="url(#flecha)"/>
+<path d="M1039 143 Q1072 135 1104 127" fill="none" stroke="#7DD3FC" stroke-opacity="0.55" stroke-width="2" marker-end="url(#flecha)"/>
+<path d="M1034 168 Q1072 194 1109 221" fill="none" stroke="#7DD3FC" stroke-opacity="0.55" stroke-width="2" marker-end="url(#flecha)"/>
+<path d="M1010 180 Q1010 214 1010 248" fill="none" stroke="#7DD3FC" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#flecha)"/>
+<path d="M1039 271 Q1072 260 1105 250" fill="none" stroke="#7DD3FC" stroke-opacity="0.55" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#flecha)"/>
+<path d="M1159 222 Q1197 196 1234 169" fill="none" stroke="#7DD3FC" stroke-opacity="0.55" stroke-width="2" marker-end="url(#flecha)"/>
+<path d="M1153 144 Q1197 199 1240 255" fill="none" stroke="#7DD3FC" stroke-opacity="0.55" stroke-width="2" marker-end="url(#flecha)"/>
+<path d="M1286 164 Q1319 182 1352 200" fill="none" stroke="#7DD3FC" stroke-opacity="0.55" stroke-width="2" marker-end="url(#flecha)"/>
+<path d="M1286 266 Q1319 248 1352 230" fill="none" stroke="#7DD3FC" stroke-opacity="0.55" stroke-width="2" marker-end="url(#flecha)"/>
+<path d="M1405 199 Q1439 178 1473 157" fill="none" stroke="#7DD3FC" stroke-opacity="0.55" stroke-width="2" marker-end="url(#flecha)"/>
+<path d="M1405 231 Q1439 252 1473 273" fill="none" stroke="#7DD3FC" stroke-opacity="0.55" stroke-width="2" marker-end="url(#flecha)"/>
+<circle cx="905" cy="200" r="27" fill="#E2E8F0" fill-opacity="0.22" filter="url(#brillo)"/>
+<circle cx="905" cy="200" r="27" fill="#0B1B33" stroke="#E2E8F0" stroke-width="2"/>
+<text x="905" y="246" text-anchor="middle" font-size="12" fill="#E2E8F0">Usuarios</text>
+<circle cx="905" cy="194" r="6.5" fill="#E2E8F0"/><path d="M893 214 Q905 196 917 214 Z" fill="#E2E8F0"/>
+<circle cx="1010" cy="150" r="27" fill="#34D399" fill-opacity="0.22" filter="url(#brillo)"/>
+<circle cx="1010" cy="150" r="27" fill="#0B1B33" stroke="#34D399" stroke-width="2"/>
+<text x="1010" y="196" text-anchor="middle" font-size="12" fill="#E2E8F0">Front Door</text>
+<text x="1010" y="156" text-anchor="middle" font-size="16" font-weight="700" fill="#34D399">Fd</text>
+<circle cx="1010" cy="280" r="27" fill="#34D399" fill-opacity="0.22" filter="url(#brillo)"/>
+<circle cx="1010" cy="280" r="27" fill="#0B1B33" stroke="#34D399" stroke-width="2"/>
+<text x="1010" y="326" text-anchor="middle" font-size="12" fill="#E2E8F0">Load Balancer</text>
+<text x="1010" y="286" text-anchor="middle" font-size="16" font-weight="700" fill="#34D399">Lb</text>
+<circle cx="1135" cy="120" r="27" fill="#22D3EE" fill-opacity="0.22" filter="url(#brillo)"/>
+<circle cx="1135" cy="120" r="27" fill="#0B1B33" stroke="#22D3EE" stroke-width="2"/>
+<text x="1135" y="166" text-anchor="middle" font-size="12" fill="#E2E8F0">AKS</text>
+<text x="1135" y="126" text-anchor="middle" font-size="16" font-weight="700" fill="#22D3EE">Aks</text>
+<circle cx="1135" cy="240" r="27" fill="#22D3EE" fill-opacity="0.22" filter="url(#brillo)"/>
+<circle cx="1135" cy="240" r="27" fill="#0B1B33" stroke="#22D3EE" stroke-width="2"/>
+<text x="1135" y="286" text-anchor="middle" font-size="12" fill="#E2E8F0">Container Apps</text>
+<text x="1135" y="246" text-anchor="middle" font-size="16" font-weight="700" fill="#22D3EE">Aca</text>
+<circle cx="1260" cy="150" r="27" fill="#FB923C" fill-opacity="0.22" filter="url(#brillo)"/>
+<circle cx="1260" cy="150" r="27" fill="#0B1B33" stroke="#FB923C" stroke-width="2"/>
+<text x="1260" y="196" text-anchor="middle" font-size="12" fill="#E2E8F0">Service Bus</text>
+<text x="1260" y="156" text-anchor="middle" font-size="16" font-weight="700" fill="#FB923C">Sb</text>
+<circle cx="1260" cy="280" r="27" fill="#FB923C" fill-opacity="0.22" filter="url(#brillo)"/>
+<circle cx="1260" cy="280" r="27" fill="#0B1B33" stroke="#FB923C" stroke-width="2"/>
+<text x="1260" y="326" text-anchor="middle" font-size="12" fill="#E2E8F0">Event Hubs</text>
+<text x="1260" y="286" text-anchor="middle" font-size="16" font-weight="700" fill="#FB923C">Eh</text>
+<circle cx="1380" cy="215" r="27" fill="#60A5FA" fill-opacity="0.22" filter="url(#brillo)"/>
+<circle cx="1380" cy="215" r="27" fill="#0B1B33" stroke="#60A5FA" stroke-width="2"/>
+<text x="1380" y="261" text-anchor="middle" font-size="12" fill="#E2E8F0">Functions</text>
+<text x="1380" y="221" text-anchor="middle" font-size="16" font-weight="700" fill="#60A5FA">Fn</text>
+<circle cx="1500" cy="140" r="27" fill="#E879F9" fill-opacity="0.22" filter="url(#brillo)"/>
+<circle cx="1500" cy="140" r="27" fill="#0B1B33" stroke="#E879F9" stroke-width="2"/>
+<text x="1500" y="186" text-anchor="middle" font-size="12" fill="#E2E8F0">Cosmos DB</text>
+<text x="1500" y="146" text-anchor="middle" font-size="16" font-weight="700" fill="#E879F9">Cdb</text>
+<circle cx="1500" cy="290" r="27" fill="#A78BFA" fill-opacity="0.22" filter="url(#brillo)"/>
+<circle cx="1500" cy="290" r="27" fill="#0B1B33" stroke="#A78BFA" stroke-width="2"/>
+<text x="1500" y="336" text-anchor="middle" font-size="12" fill="#E2E8F0">Storage</text>
+<text x="1500" y="296" text-anchor="middle" font-size="16" font-weight="700" fill="#A78BFA">St</text>
+</svg>

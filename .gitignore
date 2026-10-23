@@ -1,18 +1,18 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+# Sistema operativo y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
 
-# Other files and folders
-.settings/
+# Python (tools/generar_atlas.py)
+__pycache__/
+*.pyc
+.venv/
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+# Herramientas de Node usadas para previsualizar o validar diagramas en local
+node_modules/
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+# Salidas temporales de previsualización
+*.tmp
+preview/
