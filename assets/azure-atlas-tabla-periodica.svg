@@ -1,0 +1,1295 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2112 1310" width="2112" height="1310" font-family="Segoe UI, Inter, Helvetica Neue, Arial, sans-serif" role="img" aria-labelledby="t d">
+<title id="t">Azure Atlas · Tabla periódica de servicios de Microsoft Azure</title>
+<desc id="d">175 servicios activos de Azure agrupados en 13 familias, edición octubre 2026.</desc>
+<defs>
+<linearGradient id="fondo" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050816"/><stop offset="0.55" stop-color="#0A1630"/><stop offset="1" stop-color="#0B2545"/></linearGradient>
+<radialGradient id="halo" cx="0.18" cy="0.08" r="0.65"><stop offset="0" stop-color="#0078D4" stop-opacity="0.35"/><stop offset="1" stop-color="#0078D4" stop-opacity="0"/></radialGradient>
+<pattern id="puntos" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#FFFFFF" fill-opacity="0.05"/></pattern>
+<linearGradient id="marca" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#50E6FF"/><stop offset="1" stop-color="#0078D4"/></linearGradient>
+</defs>
+<rect width="2112" height="1310" fill="url(#fondo)"/>
+<rect width="2112" height="1310" fill="url(#halo)"/>
+<rect width="2112" height="1310" fill="url(#puntos)"/>
+<g transform="translate(56,48)"><path d="M28 0 L56 16 L56 48 L28 64 L0 48 L0 16 Z" fill="none" stroke="url(#marca)" stroke-width="3"/><path d="M28 14 L44 23 L44 41 L28 50 L12 41 L12 23 Z" fill="url(#marca)" fill-opacity="0.35"/><circle cx="28" cy="32" r="5" fill="#50E6FF"/></g>
+<text x="132" y="86" font-size="46" font-weight="800" letter-spacing="7" fill="#F8FAFC">AZURE ATLAS</text>
+<text x="134" y="118" font-size="18" fill="#94A3B8">Tabla periódica de servicios de Microsoft Azure · edición octubre 2026</text>
+<g transform="translate(1949,62)"><rect width="107" height="32" rx="16" fill="#0F2747" stroke="#1E4E8C"/><text x="54" y="21" text-anchor="middle" font-size="13" fill="#E2E8F0">70+ regiones</text></g>
+<g transform="translate(1716,62)"><rect width="221" height="32" rx="16" fill="#0F2747" stroke="#1E4E8C"/><text x="111" y="21" text-anchor="middle" font-size="13" fill="#E2E8F0">250 entradas en el catálogo</text></g>
+<g transform="translate(1604,62)"><rect width="100" height="32" rx="16" fill="#0F2747" stroke="#1E4E8C"/><text x="50" y="21" text-anchor="middle" font-size="13" fill="#E2E8F0">13 familias</text></g>
+<g transform="translate(1416,62)"><rect width="176" height="32" rx="16" fill="#0F2747" stroke="#1E4E8C"/><text x="88" y="21" text-anchor="middle" font-size="13" fill="#E2E8F0">175 servicios activos</text></g>
+<text x="151" y="192" text-anchor="middle" font-size="10.5" font-weight="700" fill="#60A5FA">CÓMPUTO</text>
+<rect x="56" y="200" width="190" height="3" rx="1.5" fill="#60A5FA" fill-opacity="0.8"/>
+<g transform="translate(56,214)">
+<rect width="92" height="70" rx="9" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">1</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#60A5FA">Vm</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Virtual</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Machines</text>
+</g>
+<g transform="translate(56,290)">
+<rect width="92" height="70" rx="9" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">2</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#60A5FA">Ss</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Scale</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Sets</text>
+</g>
+<g transform="translate(56,366)">
+<rect width="92" height="70" rx="9" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">3</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#60A5FA">Sp</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Spot</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">VMs</text>
+</g>
+<g transform="translate(56,442)">
+<rect width="92" height="70" rx="9" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">4</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#60A5FA">Dh</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Dedicated</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Host</text>
+</g>
+<g transform="translate(56,518)">
+<rect width="92" height="70" rx="9" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">5</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#60A5FA">Cf</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Compute</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Fleet</text>
+</g>
+<g transform="translate(56,594)">
+<rect width="92" height="70" rx="9" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">6</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#60A5FA">Cg</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Compute</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Gallery</text>
+</g>
+<g transform="translate(56,670)">
+<rect width="92" height="70" rx="9" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">7</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#60A5FA">As</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">App</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Service</text>
+</g>
+<g transform="translate(154,214)">
+<rect width="92" height="70" rx="9" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">8</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#60A5FA">Fn</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Functions</text>
+</g>
+<g transform="translate(154,290)">
+<rect width="92" height="70" rx="9" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">9</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#60A5FA">Ba</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Batch</text>
+</g>
+<g transform="translate(154,366)">
+<rect width="92" height="70" rx="9" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">10</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#60A5FA">Cy</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">CycleCloud</text>
+</g>
+<g transform="translate(154,442)">
+<rect width="92" height="70" rx="9" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">11</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#60A5FA">Av</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">VMware</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Solution</text>
+</g>
+<g transform="translate(154,518)">
+<rect width="92" height="70" rx="9" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">12</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#60A5FA">Sf</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Service</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Fabric</text>
+</g>
+<g transform="translate(154,594)">
+<rect width="92" height="70" rx="9" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">13</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#60A5FA">Bo</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Boost</text>
+</g>
+<g transform="translate(154,670)">
+<rect width="92" height="70" rx="9" fill="#60A5FA" fill-opacity="0.13" stroke="#60A5FA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">14</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#60A5FA">Qu</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Quantum</text>
+</g>
+<text x="310" y="192" text-anchor="middle" font-size="10.5" font-weight="700" fill="#22D3EE">CONTENEDORES</text>
+<rect x="264" y="200" width="92" height="3" rx="1.5" fill="#22D3EE" fill-opacity="0.8"/>
+<g transform="translate(264,214)">
+<rect width="92" height="70" rx="9" fill="#22D3EE" fill-opacity="0.13" stroke="#22D3EE" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">15</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#22D3EE">Aks</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Kubernetes</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Service</text>
+</g>
+<g transform="translate(264,290)">
+<rect width="92" height="70" rx="9" fill="#22D3EE" fill-opacity="0.13" stroke="#22D3EE" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">16</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#22D3EE">Aka</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">AKS</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Automatic</text>
+</g>
+<g transform="translate(264,366)">
+<rect width="92" height="70" rx="9" fill="#22D3EE" fill-opacity="0.13" stroke="#22D3EE" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">17</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#22D3EE">Aca</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Container</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Apps</text>
+</g>
+<g transform="translate(264,442)">
+<rect width="92" height="70" rx="9" fill="#22D3EE" fill-opacity="0.13" stroke="#22D3EE" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">18</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#22D3EE">Sbx</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">ACA</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Sandboxes</text>
+</g>
+<g transform="translate(264,518)">
+<rect width="92" height="70" rx="9" fill="#22D3EE" fill-opacity="0.13" stroke="#22D3EE" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">19</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#22D3EE">Aci</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Container</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Instances</text>
+</g>
+<g transform="translate(264,594)">
+<rect width="92" height="70" rx="9" fill="#22D3EE" fill-opacity="0.13" stroke="#22D3EE" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">20</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#22D3EE">Acr</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Container</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Registry</text>
+</g>
+<g transform="translate(264,670)">
+<rect width="92" height="70" rx="9" fill="#22D3EE" fill-opacity="0.13" stroke="#22D3EE" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">21</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#22D3EE">Kfm</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Fleet</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Manager</text>
+</g>
+<g transform="translate(264,746)">
+<rect width="92" height="70" rx="9" fill="#22D3EE" fill-opacity="0.13" stroke="#22D3EE" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">22</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#22D3EE">Aro</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Red Hat</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">OpenShift</text>
+</g>
+<g transform="translate(264,822)">
+<rect width="92" height="70" rx="9" fill="#22D3EE" fill-opacity="0.13" stroke="#22D3EE" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">23</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#22D3EE">Csg</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Container</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Storage</text>
+</g>
+<text x="420" y="192" text-anchor="middle" font-size="9.5" font-weight="700" fill="#A78BFA">ALMACENAMIENTO</text>
+<rect x="374" y="200" width="92" height="3" rx="1.5" fill="#A78BFA" fill-opacity="0.8"/>
+<g transform="translate(374,214)">
+<rect width="92" height="70" rx="9" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">24</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A78BFA">Bl</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Blob</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Storage</text>
+</g>
+<g transform="translate(374,290)">
+<rect width="92" height="70" rx="9" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">25</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A78BFA">Dl</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Data Lake</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Storage</text>
+</g>
+<g transform="translate(374,366)">
+<rect width="92" height="70" rx="9" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">26</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A78BFA">Fi</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Files</text>
+</g>
+<g transform="translate(374,442)">
+<rect width="92" height="70" rx="9" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">27</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A78BFA">Fs</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">File</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Sync</text>
+</g>
+<g transform="translate(374,518)">
+<rect width="92" height="70" rx="9" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">28</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A78BFA">Qs</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Queue</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Storage</text>
+</g>
+<g transform="translate(374,594)">
+<rect width="92" height="70" rx="9" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">29</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A78BFA">Ts</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Table</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Storage</text>
+</g>
+<g transform="translate(374,670)">
+<rect width="92" height="70" rx="9" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">30</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A78BFA">Md</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Managed</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Disks</text>
+</g>
+<g transform="translate(374,746)">
+<rect width="92" height="70" rx="9" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">31</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A78BFA">Es</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Elastic</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">SAN</text>
+</g>
+<g transform="translate(374,822)">
+<rect width="92" height="70" rx="9" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">32</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A78BFA">Nf</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">NetApp</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Files</text>
+</g>
+<g transform="translate(374,898)">
+<rect width="92" height="70" rx="9" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">33</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A78BFA">Lu</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Managed</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Lustre</text>
+</g>
+<g transform="translate(374,974)">
+<rect width="92" height="70" rx="9" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">34</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A78BFA">Sa</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Storage</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Actions</text>
+</g>
+<g transform="translate(374,1050)">
+<rect width="92" height="70" rx="9" fill="#A78BFA" fill-opacity="0.13" stroke="#A78BFA" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">35</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A78BFA">Smv</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Storage</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Mover</text>
+</g>
+<text x="530" y="192" text-anchor="middle" font-size="9.5" font-weight="700" fill="#E879F9">BASES DE DATOS</text>
+<rect x="484" y="200" width="92" height="3" rx="1.5" fill="#E879F9" fill-opacity="0.8"/>
+<g transform="translate(484,214)">
+<rect width="92" height="70" rx="9" fill="#E879F9" fill-opacity="0.13" stroke="#E879F9" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">36</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#E879F9">Cdb</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Cosmos</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">DB</text>
+</g>
+<g transform="translate(484,290)">
+<rect width="92" height="70" rx="9" fill="#E879F9" fill-opacity="0.13" stroke="#E879F9" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">37</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#E879F9">Sql</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">SQL</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Database</text>
+</g>
+<g transform="translate(484,366)">
+<rect width="92" height="70" rx="9" fill="#E879F9" fill-opacity="0.13" stroke="#E879F9" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">38</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#E879F9">Smi</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">SQL Managed</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Instance</text>
+</g>
+<g transform="translate(484,442)">
+<rect width="92" height="70" rx="9" fill="#E879F9" fill-opacity="0.13" stroke="#E879F9" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">39</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#E879F9">Svm</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">SQL Server</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">en VM</text>
+</g>
+<g transform="translate(484,518)">
+<rect width="92" height="70" rx="9" fill="#E879F9" fill-opacity="0.13" stroke="#E879F9" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">40</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#E879F9">Sfb</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">SQL DB</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">en Fabric</text>
+</g>
+<g transform="translate(484,594)">
+<rect width="92" height="70" rx="9" fill="#E879F9" fill-opacity="0.13" stroke="#E879F9" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">41</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#E879F9">Pg</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">PostgreSQL</text>
+</g>
+<g transform="translate(484,670)">
+<rect width="92" height="70" rx="9" fill="#E879F9" fill-opacity="0.13" stroke="#E879F9" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">42</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#E879F9">Hz</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<circle cx="72" cy="10" r="3.4" fill="#FBBF24"/>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">HorizonDB</text>
+</g>
+<g transform="translate(484,746)">
+<rect width="92" height="70" rx="9" fill="#E879F9" fill-opacity="0.13" stroke="#E879F9" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">43</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#E879F9">My</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">MySQL</text>
+</g>
+<g transform="translate(484,822)">
+<rect width="92" height="70" rx="9" fill="#E879F9" fill-opacity="0.13" stroke="#E879F9" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">44</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#E879F9">Ddb</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">DocumentDB</text>
+</g>
+<g transform="translate(484,898)">
+<rect width="92" height="70" rx="9" fill="#E879F9" fill-opacity="0.13" stroke="#E879F9" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">45</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#E879F9">Rd</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Managed</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Redis</text>
+</g>
+<g transform="translate(484,974)">
+<rect width="92" height="70" rx="9" fill="#E879F9" fill-opacity="0.13" stroke="#E879F9" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">46</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#E879F9">Ca</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Cassandra</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">MI</text>
+</g>
+<g transform="translate(484,1050)">
+<rect width="92" height="70" rx="9" fill="#E879F9" fill-opacity="0.13" stroke="#E879F9" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">47</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#E879F9">Ora</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Oracle</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">DB@Azure</text>
+</g>
+<text x="689" y="192" text-anchor="middle" font-size="10.5" font-weight="700" fill="#34D399">REDES</text>
+<rect x="594" y="200" width="190" height="3" rx="1.5" fill="#34D399" fill-opacity="0.8"/>
+<g transform="translate(594,214)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">48</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Vn</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Virtual</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Network</text>
+</g>
+<g transform="translate(594,290)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">49</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Vnm</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">VNet</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Manager</text>
+</g>
+<g transform="translate(594,366)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">50</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Fd</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Front</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Door</text>
+</g>
+<g transform="translate(594,442)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">51</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Lb</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Load</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Balancer</text>
+</g>
+<g transform="translate(594,518)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">52</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Ag</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">App</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Gateway</text>
+</g>
+<g transform="translate(594,594)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">53</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Agc</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">AppGW for</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Containers</text>
+</g>
+<g transform="translate(594,670)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">54</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Tm</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Traffic</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Manager</text>
+</g>
+<g transform="translate(594,746)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">55</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Nat</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">NAT</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Gateway</text>
+</g>
+<g transform="translate(594,822)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">56</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Dns</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">DNS</text>
+</g>
+<g transform="translate(594,898)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">57</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Dpr</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">DNS Private</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Resolver</text>
+</g>
+<g transform="translate(594,974)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">58</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Pl</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Private</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Link</text>
+</g>
+<g transform="translate(692,214)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">59</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Nsp</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Network Sec.</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Perimeter</text>
+</g>
+<g transform="translate(692,290)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">60</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Vpn</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">VPN</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Gateway</text>
+</g>
+<g transform="translate(692,366)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">61</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Er</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Express</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Route</text>
+</g>
+<g transform="translate(692,442)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">62</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Wan</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Virtual</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">WAN</text>
+</g>
+<g transform="translate(692,518)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">63</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Rs</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Route</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Server</text>
+</g>
+<g transform="translate(692,594)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">64</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Fw</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Firewall</text>
+</g>
+<g transform="translate(692,670)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">65</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Waf</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Web App</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Firewall</text>
+</g>
+<g transform="translate(692,746)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">66</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Dd</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">DDoS</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Protection</text>
+</g>
+<g transform="translate(692,822)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">67</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Bs</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Bastion</text>
+</g>
+<g transform="translate(692,898)">
+<rect width="92" height="70" rx="9" fill="#34D399" fill-opacity="0.13" stroke="#34D399" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">68</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#34D399">Nw</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Network</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Watcher</text>
+</g>
+<text x="848" y="192" text-anchor="middle" font-size="10.5" font-weight="700" fill="#FB923C">INTEGRACIÓN</text>
+<rect x="802" y="200" width="92" height="3" rx="1.5" fill="#FB923C" fill-opacity="0.8"/>
+<g transform="translate(802,214)">
+<rect width="92" height="70" rx="9" fill="#FB923C" fill-opacity="0.13" stroke="#FB923C" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">69</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FB923C">Sb</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Service</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Bus</text>
+</g>
+<g transform="translate(802,290)">
+<rect width="92" height="70" rx="9" fill="#FB923C" fill-opacity="0.13" stroke="#FB923C" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">70</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FB923C">Eh</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Event</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Hubs</text>
+</g>
+<g transform="translate(802,366)">
+<rect width="92" height="70" rx="9" fill="#FB923C" fill-opacity="0.13" stroke="#FB923C" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">71</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FB923C">Eg</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Event</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Grid</text>
+</g>
+<g transform="translate(802,442)">
+<rect width="92" height="70" rx="9" fill="#FB923C" fill-opacity="0.13" stroke="#FB923C" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">72</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FB923C">La</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Logic</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Apps</text>
+</g>
+<g transform="translate(802,518)">
+<rect width="92" height="70" rx="9" fill="#FB923C" fill-opacity="0.13" stroke="#FB923C" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">73</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FB923C">Apm</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">API</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Management</text>
+</g>
+<g transform="translate(802,594)">
+<rect width="92" height="70" rx="9" fill="#FB923C" fill-opacity="0.13" stroke="#FB923C" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">74</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FB923C">Apc</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">API</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Center</text>
+</g>
+<g transform="translate(802,670)">
+<rect width="92" height="70" rx="9" fill="#FB923C" fill-opacity="0.13" stroke="#FB923C" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">75</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FB923C">Rl</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Relay</text>
+</g>
+<g transform="translate(802,746)">
+<rect width="92" height="70" rx="9" fill="#FB923C" fill-opacity="0.13" stroke="#FB923C" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">76</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FB923C">Wps</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Web</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">PubSub</text>
+</g>
+<g transform="translate(802,822)">
+<rect width="92" height="70" rx="9" fill="#FB923C" fill-opacity="0.13" stroke="#FB923C" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">77</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FB923C">Sr</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">SignalR</text>
+</g>
+<text x="958" y="192" text-anchor="middle" font-size="10.5" font-weight="700" fill="#FACC15">ANALÍTICA</text>
+<rect x="912" y="200" width="92" height="3" rx="1.5" fill="#FACC15" fill-opacity="0.8"/>
+<g transform="translate(912,214)">
+<rect width="92" height="70" rx="9" fill="#FACC15" fill-opacity="0.13" stroke="#FACC15" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">78</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FACC15">Fab</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Microsoft</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Fabric</text>
+</g>
+<g transform="translate(912,290)">
+<rect width="92" height="70" rx="9" fill="#FACC15" fill-opacity="0.13" stroke="#FACC15" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">79</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FACC15">Dbr</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Databricks</text>
+</g>
+<g transform="translate(912,366)">
+<rect width="92" height="70" rx="9" fill="#FACC15" fill-opacity="0.13" stroke="#FACC15" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">80</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FACC15">Syn</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Synapse</text>
+</g>
+<g transform="translate(912,442)">
+<rect width="92" height="70" rx="9" fill="#FACC15" fill-opacity="0.13" stroke="#FACC15" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">81</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FACC15">Adf</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Data</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Factory</text>
+</g>
+<g transform="translate(912,518)">
+<rect width="92" height="70" rx="9" fill="#FACC15" fill-opacity="0.13" stroke="#FACC15" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">82</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FACC15">Adx</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Data</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Explorer</text>
+</g>
+<g transform="translate(912,594)">
+<rect width="92" height="70" rx="9" fill="#FACC15" fill-opacity="0.13" stroke="#FACC15" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">83</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FACC15">Asa</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Stream</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Analytics</text>
+</g>
+<g transform="translate(912,670)">
+<rect width="92" height="70" rx="9" fill="#FACC15" fill-opacity="0.13" stroke="#FACC15" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">84</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FACC15">Hdi</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">HDInsight</text>
+</g>
+<g transform="translate(912,746)">
+<rect width="92" height="70" rx="9" fill="#FACC15" fill-opacity="0.13" stroke="#FACC15" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">85</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FACC15">Pv</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Purview</text>
+</g>
+<g transform="translate(912,822)">
+<rect width="92" height="70" rx="9" fill="#FACC15" fill-opacity="0.13" stroke="#FACC15" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">86</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FACC15">Dsh</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Data</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Share</text>
+</g>
+<g transform="translate(912,898)">
+<rect width="92" height="70" rx="9" fill="#FACC15" fill-opacity="0.13" stroke="#FACC15" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">87</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#FACC15">Pbi</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Power BI</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Embedded</text>
+</g>
+<text x="1117" y="192" text-anchor="middle" font-size="10.5" font-weight="700" fill="#F472B6">IA Y ML</text>
+<rect x="1022" y="200" width="190" height="3" rx="1.5" fill="#F472B6" fill-opacity="0.8"/>
+<g transform="translate(1022,214)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">88</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Mf</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Microsoft</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Foundry</text>
+</g>
+<g transform="translate(1022,290)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">89</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Fm</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Foundry</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Models</text>
+</g>
+<g transform="translate(1022,366)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">90</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Oai</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">OpenAI</text>
+</g>
+<g transform="translate(1022,442)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">91</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Fas</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Agent</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Service</text>
+</g>
+<g transform="translate(1022,518)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">92</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Fiq</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<circle cx="72" cy="10" r="3.4" fill="#FBBF24"/>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Foundry</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">IQ</text>
+</g>
+<g transform="translate(1022,594)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">93</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Fcp</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<circle cx="72" cy="10" r="3.4" fill="#FBBF24"/>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Control</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Plane</text>
+</g>
+<g transform="translate(1022,670)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">94</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Fl</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Foundry</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Local</text>
+</g>
+<g transform="translate(1022,746)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">95</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Srh</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">AI</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Search</text>
+</g>
+<g transform="translate(1022,822)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">96</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Spc</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Speech</text>
+</g>
+<g transform="translate(1022,898)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">97</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Lng</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Language</text>
+</g>
+<g transform="translate(1120,214)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">98</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Tr</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Translator</text>
+</g>
+<g transform="translate(1120,290)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">99</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Vis</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Vision</text>
+</g>
+<g transform="translate(1120,366)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">100</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Di</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Document</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Intelligence</text>
+</g>
+<g transform="translate(1120,442)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">101</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Cu</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Content</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Understanding</text>
+</g>
+<g transform="translate(1120,518)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">102</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Csf</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Content</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Safety</text>
+</g>
+<g transform="translate(1120,594)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">103</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Ml</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Machine</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Learning</text>
+</g>
+<g transform="translate(1120,670)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">104</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Maf</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Agent</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Framework</text>
+</g>
+<g transform="translate(1120,746)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">105</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Dis</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Discovery</text>
+</g>
+<g transform="translate(1120,822)">
+<rect width="92" height="70" rx="9" fill="#F472B6" fill-opacity="0.13" stroke="#F472B6" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">106</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F472B6">Vi</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Video</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Indexer</text>
+</g>
+<text x="1276" y="180" text-anchor="middle" font-size="10.5" font-weight="700" fill="#A3E635">IOT, BORDE</text>
+<text x="1276" y="192" text-anchor="middle" font-size="10.5" font-weight="700" fill="#A3E635">E HÍBRIDO</text>
+<rect x="1230" y="200" width="92" height="3" rx="1.5" fill="#A3E635" fill-opacity="0.8"/>
+<g transform="translate(1230,214)">
+<rect width="92" height="70" rx="9" fill="#A3E635" fill-opacity="0.13" stroke="#A3E635" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">107</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A3E635">Ih</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">IoT</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Hub</text>
+</g>
+<g transform="translate(1230,290)">
+<rect width="92" height="70" rx="9" fill="#A3E635" fill-opacity="0.13" stroke="#A3E635" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">108</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A3E635">Dps</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Device</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Provisioning</text>
+</g>
+<g transform="translate(1230,366)">
+<rect width="92" height="70" rx="9" fill="#A3E635" fill-opacity="0.13" stroke="#A3E635" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">109</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A3E635">Dr</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Device</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Registry</text>
+</g>
+<g transform="translate(1230,442)">
+<rect width="92" height="70" rx="9" fill="#A3E635" fill-opacity="0.13" stroke="#A3E635" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">110</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A3E635">Io</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">IoT</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Operations</text>
+</g>
+<g transform="translate(1230,518)">
+<rect width="92" height="70" rx="9" fill="#A3E635" fill-opacity="0.13" stroke="#A3E635" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">111</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A3E635">Ie</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">IoT</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Edge</text>
+</g>
+<g transform="translate(1230,594)">
+<rect width="92" height="70" rx="9" fill="#A3E635" fill-opacity="0.13" stroke="#A3E635" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">112</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A3E635">Dt</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Digital</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Twins</text>
+</g>
+<g transform="translate(1230,670)">
+<rect width="92" height="70" rx="9" fill="#A3E635" fill-opacity="0.13" stroke="#A3E635" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">113</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A3E635">Dfi</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Defender</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">for IoT</text>
+</g>
+<g transform="translate(1230,746)">
+<rect width="92" height="70" rx="9" fill="#A3E635" fill-opacity="0.13" stroke="#A3E635" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">114</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A3E635">Du</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Device</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Update</text>
+</g>
+<g transform="translate(1230,822)">
+<rect width="92" height="70" rx="9" fill="#A3E635" fill-opacity="0.13" stroke="#A3E635" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">115</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A3E635">Arc</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Arc</text>
+</g>
+<g transform="translate(1230,898)">
+<rect width="92" height="70" rx="9" fill="#A3E635" fill-opacity="0.13" stroke="#A3E635" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">116</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A3E635">Loc</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Local</text>
+</g>
+<g transform="translate(1230,974)">
+<rect width="92" height="70" rx="9" fill="#A3E635" fill-opacity="0.13" stroke="#A3E635" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">117</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A3E635">Ash</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Stack</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Hub</text>
+</g>
+<g transform="translate(1230,1050)">
+<rect width="92" height="70" rx="9" fill="#A3E635" fill-opacity="0.13" stroke="#A3E635" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">118</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#A3E635">Onx</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Operator</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Nexus</text>
+</g>
+<text x="1435" y="192" text-anchor="middle" font-size="10.5" font-weight="700" fill="#F87171">IDENTIDAD Y SEGURIDAD</text>
+<rect x="1340" y="200" width="190" height="3" rx="1.5" fill="#F87171" fill-opacity="0.8"/>
+<g transform="translate(1340,214)">
+<rect width="92" height="70" rx="9" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">119</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F87171">Eid</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Entra</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">ID</text>
+</g>
+<g transform="translate(1340,290)">
+<rect width="92" height="70" rx="9" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">120</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F87171">Ext</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">External</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">ID</text>
+</g>
+<g transform="translate(1340,366)">
+<rect width="92" height="70" rx="9" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">121</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F87171">Gov</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">ID</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Governance</text>
+</g>
+<g transform="translate(1340,442)">
+<rect width="92" height="70" rx="9" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">122</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F87171">Eds</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Domain</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Services</text>
+</g>
+<g transform="translate(1340,518)">
+<rect width="92" height="70" rx="9" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">123</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F87171">Agi</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<circle cx="72" cy="10" r="3.4" fill="#FBBF24"/>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Agent</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">ID</text>
+</g>
+<g transform="translate(1340,594)">
+<rect width="92" height="70" rx="9" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">124</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F87171">Gsa</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Global Secure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Access</text>
+</g>
+<g transform="translate(1340,670)">
+<rect width="92" height="70" rx="9" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">125</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F87171">Mid</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Managed</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Identities</text>
+</g>
+<g transform="translate(1438,214)">
+<rect width="92" height="70" rx="9" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">126</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F87171">Kv</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Key</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Vault</text>
+</g>
+<g transform="translate(1438,290)">
+<rect width="92" height="70" rx="9" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">127</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F87171">Hsm</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Managed</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">HSM</text>
+</g>
+<g transform="translate(1438,366)">
+<rect width="92" height="70" rx="9" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">128</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F87171">Chm</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Cloud</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">HSM</text>
+</g>
+<g transform="translate(1438,442)">
+<rect width="92" height="70" rx="9" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">129</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F87171">Dfc</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Defender</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">for Cloud</text>
+</g>
+<g transform="translate(1438,518)">
+<rect width="92" height="70" rx="9" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">130</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F87171">Sen</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Sentinel</text>
+</g>
+<g transform="translate(1438,594)">
+<rect width="92" height="70" rx="9" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">131</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F87171">Sco</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Security</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Copilot</text>
+</g>
+<g transform="translate(1438,670)">
+<rect width="92" height="70" rx="9" fill="#F87171" fill-opacity="0.13" stroke="#F87171" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">132</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#F87171">Cc</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Confidential</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Computing</text>
+</g>
+<text x="1643" y="192" text-anchor="middle" font-size="10.5" font-weight="700" fill="#818CF8">DEVOPS E IAC</text>
+<rect x="1548" y="200" width="190" height="3" rx="1.5" fill="#818CF8" fill-opacity="0.8"/>
+<g transform="translate(1548,214)">
+<rect width="92" height="70" rx="9" fill="#818CF8" fill-opacity="0.13" stroke="#818CF8" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">133</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#818CF8">Gh</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">GitHub</text>
+</g>
+<g transform="translate(1548,290)">
+<rect width="92" height="70" rx="9" fill="#818CF8" fill-opacity="0.13" stroke="#818CF8" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">134</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#818CF8">Ado</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">DevOps</text>
+</g>
+<g transform="translate(1548,366)">
+<rect width="92" height="70" rx="9" fill="#818CF8" fill-opacity="0.13" stroke="#818CF8" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">135</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#818CF8">Mdp</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Managed</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">DevOps Pools</text>
+</g>
+<g transform="translate(1548,442)">
+<rect width="92" height="70" rx="9" fill="#818CF8" fill-opacity="0.13" stroke="#818CF8" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">136</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#818CF8">Bcp</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Bicep</text>
+</g>
+<g transform="translate(1548,518)">
+<rect width="92" height="70" rx="9" fill="#818CF8" fill-opacity="0.13" stroke="#818CF8" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">137</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#818CF8">Tf</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Terraform</text>
+</g>
+<g transform="translate(1548,594)">
+<rect width="92" height="70" rx="9" fill="#818CF8" fill-opacity="0.13" stroke="#818CF8" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">138</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#818CF8">Avm</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Verified</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Modules</text>
+</g>
+<g transform="translate(1548,670)">
+<rect width="92" height="70" rx="9" fill="#818CF8" fill-opacity="0.13" stroke="#818CF8" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">139</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#818CF8">Dst</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Deployment</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Stacks</text>
+</g>
+<g transform="translate(1646,214)">
+<rect width="92" height="70" rx="9" fill="#818CF8" fill-opacity="0.13" stroke="#818CF8" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">140</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#818CF8">Azd</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Developer</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">CLI</text>
+</g>
+<g transform="translate(1646,290)">
+<rect width="92" height="70" rx="9" fill="#818CF8" fill-opacity="0.13" stroke="#818CF8" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">141</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#818CF8">Cli</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure CLI</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">PowerShell</text>
+</g>
+<g transform="translate(1646,366)">
+<rect width="92" height="70" rx="9" fill="#818CF8" fill-opacity="0.13" stroke="#818CF8" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">142</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#818CF8">Mcp</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure MCP</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Server</text>
+</g>
+<g transform="translate(1646,442)">
+<rect width="92" height="70" rx="9" fill="#818CF8" fill-opacity="0.13" stroke="#818CF8" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">143</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#818CF8">Acf</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">App</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Configuration</text>
+</g>
+<g transform="translate(1646,518)">
+<rect width="92" height="70" rx="9" fill="#818CF8" fill-opacity="0.13" stroke="#818CF8" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">144</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#818CF8">Lt</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">App</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Testing</text>
+</g>
+<g transform="translate(1646,594)">
+<rect width="92" height="70" rx="9" fill="#818CF8" fill-opacity="0.13" stroke="#818CF8" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">145</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#818CF8">Cho</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Chaos</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Studio</text>
+</g>
+<text x="1851" y="192" text-anchor="middle" font-size="10.5" font-weight="700" fill="#CBD5E1">GESTIÓN Y MIGRACIÓN</text>
+<rect x="1756" y="200" width="190" height="3" rx="1.5" fill="#CBD5E1" fill-opacity="0.8"/>
+<g transform="translate(1756,214)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">146</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Arm</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Resource</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Manager</text>
+</g>
+<g transform="translate(1756,290)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">147</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Pol</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Policy</text>
+</g>
+<g transform="translate(1756,366)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">148</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Mg</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Management</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Groups</text>
+</g>
+<g transform="translate(1756,442)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">149</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Rg</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Resource</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Graph</text>
+</g>
+<g transform="translate(1756,518)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">150</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Lh</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Lighthouse</text>
+</g>
+<g transform="translate(1756,594)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">151</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Cm</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Cost</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Management</text>
+</g>
+<g transform="translate(1756,670)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">152</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Adv</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Advisor</text>
+</g>
+<g transform="translate(1756,746)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">153</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Mon</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Monitor</text>
+</g>
+<g transform="translate(1756,822)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">154</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Ai</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">App</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Insights</text>
+</g>
+<g transform="translate(1756,898)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">155</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Law</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Log</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Analytics</text>
+</g>
+<g transform="translate(1756,974)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">156</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Pro</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Managed</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Prometheus</text>
+</g>
+<g transform="translate(1854,214)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">157</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Gra</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Managed</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Grafana</text>
+</g>
+<g transform="translate(1854,290)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">158</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Um</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Update</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Manager</text>
+</g>
+<g transform="translate(1854,366)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">159</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Aut</text>
+<text x="46.0" y="57" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Automation</text>
+</g>
+<g transform="translate(1854,442)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">160</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Sh</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Service</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Health</text>
+</g>
+<g transform="translate(1854,518)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">161</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Cop</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<circle cx="72" cy="10" r="3.4" fill="#FBBF24"/>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Copilot</text>
+</g>
+<g transform="translate(1854,594)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">162</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Sre</text>
+<text x="85" y="14" text-anchor="end" font-size="11" fill="#FDE68A">✦</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">SRE</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Agent</text>
+</g>
+<g transform="translate(1854,670)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">163</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Bk</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Backup</text>
+</g>
+<g transform="translate(1854,746)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">164</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Asr</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Site</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Recovery</text>
+</g>
+<g transform="translate(1854,822)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">165</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Mig</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Migrate</text>
+</g>
+<g transform="translate(1854,898)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">166</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Dms</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Database</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Migration</text>
+</g>
+<g transform="translate(1854,974)">
+<rect width="92" height="70" rx="9" fill="#CBD5E1" fill-opacity="0.13" stroke="#CBD5E1" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">167</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#CBD5E1">Box</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Data</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Box</text>
+</g>
+<text x="2010" y="180" text-anchor="middle" font-size="9.5" font-weight="700" fill="#2DD4BF">WEB, APPS Y</text>
+<text x="2010" y="192" text-anchor="middle" font-size="9.5" font-weight="700" fill="#2DD4BF">ESPECIALIZADOS</text>
+<rect x="1964" y="200" width="92" height="3" rx="1.5" fill="#2DD4BF" fill-opacity="0.8"/>
+<g transform="translate(1964,214)">
+<rect width="92" height="70" rx="9" fill="#2DD4BF" fill-opacity="0.13" stroke="#2DD4BF" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">168</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#2DD4BF">Swa</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Static</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Web Apps</text>
+</g>
+<g transform="translate(1964,290)">
+<rect width="92" height="70" rx="9" fill="#2DD4BF" fill-opacity="0.13" stroke="#2DD4BF" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">169</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#2DD4BF">Acs</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Communication</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Services</text>
+</g>
+<g transform="translate(1964,366)">
+<rect width="92" height="70" rx="9" fill="#2DD4BF" fill-opacity="0.13" stroke="#2DD4BF" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">170</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#2DD4BF">Map</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Azure</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Maps</text>
+</g>
+<g transform="translate(1964,442)">
+<rect width="92" height="70" rx="9" fill="#2DD4BF" fill-opacity="0.13" stroke="#2DD4BF" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">171</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#2DD4BF">Nh</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Notification</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Hubs</text>
+</g>
+<g transform="translate(1964,518)">
+<rect width="92" height="70" rx="9" fill="#2DD4BF" fill-opacity="0.13" stroke="#2DD4BF" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">172</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#2DD4BF">Avd</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Virtual</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Desktop</text>
+</g>
+<g transform="translate(1964,594)">
+<rect width="92" height="70" rx="9" fill="#2DD4BF" fill-opacity="0.13" stroke="#2DD4BF" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">173</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#2DD4BF">W365</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Windows</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">365</text>
+</g>
+<g transform="translate(1964,670)">
+<rect width="92" height="70" rx="9" fill="#2DD4BF" fill-opacity="0.13" stroke="#2DD4BF" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">174</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#2DD4BF">Hds</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Health Data</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Services</text>
+</g>
+<g transform="translate(1964,746)">
+<rect width="92" height="70" rx="9" fill="#2DD4BF" fill-opacity="0.13" stroke="#2DD4BF" stroke-opacity="0.85" stroke-width="1.2"/>
+<text x="7" y="13" font-size="8.5" fill="#94A3B8">175</text>
+<text x="46.0" y="35" text-anchor="middle" font-size="21" font-weight="700" fill="#2DD4BF">Sap</text>
+<text x="46.0" y="52" text-anchor="middle" font-size="8.4" fill="#CBD5E1">SAP</text>
+<text x="46.0" y="62" text-anchor="middle" font-size="8.4" fill="#CBD5E1">Solutions</text>
+</g>
+<line x1="56" y1="1146" x2="2056" y2="1146" stroke="#1E3A5F"/>
+<rect x="56" y="1170" width="16" height="16" rx="4" fill="#60A5FA" fill-opacity="0.25" stroke="#60A5FA"/><text x="80" y="1183" font-size="13" fill="#E2E8F0">Cómputo (14)</text>
+<rect x="306" y="1170" width="16" height="16" rx="4" fill="#22D3EE" fill-opacity="0.25" stroke="#22D3EE"/><text x="330" y="1183" font-size="13" fill="#E2E8F0">Contenedores (9)</text>
+<rect x="556" y="1170" width="16" height="16" rx="4" fill="#A78BFA" fill-opacity="0.25" stroke="#A78BFA"/><text x="580" y="1183" font-size="13" fill="#E2E8F0">Almacenamiento (12)</text>
+<rect x="806" y="1170" width="16" height="16" rx="4" fill="#E879F9" fill-opacity="0.25" stroke="#E879F9"/><text x="830" y="1183" font-size="13" fill="#E2E8F0">Bases de datos (12)</text>
+<rect x="1056" y="1170" width="16" height="16" rx="4" fill="#34D399" fill-opacity="0.25" stroke="#34D399"/><text x="1080" y="1183" font-size="13" fill="#E2E8F0">Redes (21)</text>
+<rect x="1306" y="1170" width="16" height="16" rx="4" fill="#FB923C" fill-opacity="0.25" stroke="#FB923C"/><text x="1330" y="1183" font-size="13" fill="#E2E8F0">Integración (9)</text>
+<rect x="1556" y="1170" width="16" height="16" rx="4" fill="#FACC15" fill-opacity="0.25" stroke="#FACC15"/><text x="1580" y="1183" font-size="13" fill="#E2E8F0">Analítica (10)</text>
+<rect x="56" y="1200" width="16" height="16" rx="4" fill="#F472B6" fill-opacity="0.25" stroke="#F472B6"/><text x="80" y="1213" font-size="13" fill="#E2E8F0">IA y ML (19)</text>
+<rect x="306" y="1200" width="16" height="16" rx="4" fill="#A3E635" fill-opacity="0.25" stroke="#A3E635"/><text x="330" y="1213" font-size="13" fill="#E2E8F0">IoT, borde e híbrido (12)</text>
+<rect x="556" y="1200" width="16" height="16" rx="4" fill="#F87171" fill-opacity="0.25" stroke="#F87171"/><text x="580" y="1213" font-size="13" fill="#E2E8F0">Identidad y seguridad (14)</text>
+<rect x="806" y="1200" width="16" height="16" rx="4" fill="#818CF8" fill-opacity="0.25" stroke="#818CF8"/><text x="830" y="1213" font-size="13" fill="#E2E8F0">DevOps e IaC (13)</text>
+<rect x="1056" y="1200" width="16" height="16" rx="4" fill="#CBD5E1" fill-opacity="0.25" stroke="#CBD5E1"/><text x="1080" y="1213" font-size="13" fill="#E2E8F0">Gestión y migración (22)</text>
+<rect x="1306" y="1200" width="16" height="16" rx="4" fill="#2DD4BF" fill-opacity="0.25" stroke="#2DD4BF"/><text x="1330" y="1213" font-size="13" fill="#E2E8F0">Web, apps y especializados (8)</text>
+<text x="56" y="1244" font-size="13" fill="#FDE68A">✦</text><text x="74" y="1244" font-size="13" fill="#CBD5E1">Novedad 2025–2026</text>
+<circle cx="252" cy="1240" r="4" fill="#FBBF24"/><text x="264" y="1244" font-size="13" fill="#CBD5E1">Preview o capacidades en preview</text>
+<text x="2056" y="1244" text-anchor="end" font-size="12" fill="#64748B">Fuente: data/servicios.csv · generado con tools/generar_atlas.py</text>
+</svg>
